@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "n2_00001",
+    "basic": {
+      "word": "根回し",
+      "kana": "ねまわし",
+      "romaji": "nemawashi",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "提前打招呼，私下铺垫",
+          "priority": 1,
+          "register": "普通"
+        },
+        {
+          "cn": "事前沟通，私下疏通",
+          "priority": 2,
+          "register": "正式"
+        }
+      ],
+      "meanings_en": [
+        "informal prior consultation",
+        "laying groundwork"
+      ],
+      "core_meaning": "正式场合之前，私下跟相关人沟通达成共识",
+      "etymology": "园艺术语。移植树木前先绕着根部松土，提高存活率。转义为正式决定前的私下沟通。"
+    },
+    "pronunciation": {
+      "pitch_accent": "ねまわし [2] 头高型",
+      "accent_note": "第一个音节ね最高，之后下降",
+      "difficult_pronunciation": false
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "会議の前に根回ししておいたから、大丈夫だよ。",
+          "cn": "开会之前我提前打过招呼了，没问题的。",
+          "scene": "同事之间轻松地说",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼、いきなり反対意見言うけど、根回しが下手なんだよね。",
+          "cn": "他动不动就提反对意见，但其实私下沟通能力很差。",
+          "scene": "评价同事，背后议论",
+          "style": "spoken"
+        },
+        {
+          "jp": "日本では根回しをしないと物事が進まないことが多い。",
+          "cn": "在日本不提前打招呼的话，事情往往推不动。",
+          "scene": "向外国人解释日本文化",
+          "style": "written"
+        }
+      ],
+      "natural_situations": [
+        "提案前私下跟同事对齐",
+        "项目开始前先跟各方打招呼"
+      ],
+      "spoken_examples": [
+        "根回ししておいてね。",
+        "根回しって大事だよ。"
+      ],
+      "written_examples": [
+        "事前に根回しを行うことが重要です。"
+      ]
+    },
+    "nuance": {
+      "core_nuance": "日本职场的核心生存技能。不是贬义的走后门，而是正式场合前私下达成共识。日本人开会基本走形式，真正的决定在根回し阶段就做完了。",
+      "emotion": "中性偏正面",
+      "tone": "日常、务实",
+      "native_feeling": "听到这个词就知道对方在说职场沟通的艺术",
+      "similar_chinese_but_different": "中文没有对应概念。中国人容易理解成走后门，但语感完全不同。",
+      "usage_image": "一棵大树，有人蹲在树根旁边慢慢松土，远处一群人站在会议室门口等着",
+      "formality": 3,
+      "softness": 3,
+      "strength": 2
+    },
+    "exam": {
+      "is_frequently_tested": true,
+      "importance_score": 4,
+      "common_patterns": [
+        "根回しをする",
+        "根回しが必要",
+        "根回しが下手/上手"
+      ],
+      "common_collocations": [
+        {
+          "pattern": "根回しをする",
+          "meaning_cn": "做提前沟通",
+          "frequency": "高"
+        },
+        {
+          "pattern": "根回しが必要",
+          "meaning_cn": "需要提前铺垫",
+          "frequency": "高"
+        }
+      ],
+      "grammar_links": [],
+      "reading_usage": "职场、商务类文章",
+      "listening_usage": "职场对话",
+      "common_question_types": [
+        "选择题",
+        "填空题"
+      ],
+      "exam_traps": [],
+      "similar_words": [
+        "事前調整"
+      ],
+      "easily_confused_words": [
+        "裏工作"
+      ]
+    },
+    "memory": {
+      "memory_hint": "移植大树——你不能直接拔，得先绕着根松土。日本公司做决策也一样，先松土（私下沟通），再移植（正式开会决定）。",
+      "association_method": "画面",
+      "image_scene": "一棵大树，有人蹲在树根旁边慢慢松土，远处一群人站在会议室门口等着",
+      "story_method": "园丁要移一棵大树，不能直接拔，得先绕着根部松土一年。日本人做项目也一样。",
+      "keyword_memory": "根=根本，回し=转动。绕着根本转动→提前铺垫",
+      "chinese_memory_trick": "中文没有对应词。不要翻译成走后门，那是负面的。根回し是中性偏正面的职场技能。"
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_age_group": "20-50岁职场人",
+      "gender_tendency": "中性",
+      "frequency_score": 4,
+      "common_in_daily_life": false,
+      "common_in_anime": false,
+      "common_in_news": true,
+      "conjugal_forms": null
+    },
+    "culture": {
+      "japan_culture_note": "根回し是日本「空気を読む」文化的具体体现。",
+      "social_context": "职场常用，日常对话中也可用来评价某人的沟通能力",
+      "hidden_meaning": "不做根回し直接上会，在日本人眼里等于不会读空气",
+      "air_reading_note": "根回し就是读空气的具体操作——提前感知各方立场，私下对齐",
+      "japanese_workplace_note": "提案前必须根回し，否则会议上直接被否决。"
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "根回し就是走后门。",
+          "correct": "根回し是正式场合前的私下沟通，是中性偏正面的。",
+          "explanation": "中文走后门是贬义，但日语根回し是职场必备技能。"
+        }
+      ],
+      "wrong_usage_examples": [],
+      "wrong_translations": [
+        "根回し=走后门❌ 根回し=提前沟通✅"
+      ],
+      "chinese_interference": [
+        "中文没有对应概念，容易用走后门来理解"
+      ],
+      "native_speaker_corrections": [
+        "日本人会说：根回しが大事だよ，语气是正面的"
+      ]
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "事前調整",
+          "diff": "更正式更书面"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ぶっつけ本番",
+          "diff": "毫无准备直接上"
+        }
+      ],
+      "related_words": [
+        "空気を読む",
+        "忖度"
+      ],
+      "related_grammar": [],
+      "related_expressions": [
+        "根回しが大事",
+        "根回しを怠る"
+      ]
+    },
+    "ai_learning": {
+      "shadowing_sentence": "会議の前に根回ししておいたから、大丈夫だよ。",
+      "conversation_topic": "你觉得提前沟通和走后门有什么区别？",
+      "roleplay_scene": "你是新员工，前辈问你有没有做根回し。你怎么回答？",
+      "speaking_question": "你在日本公司工作，要向部长提一个新方案。你会怎么做根回し？",
+      "writing_question": "用根回し写一段职场邮件，约同事提前对齐方案。",
+      "anki_front": "会議の前に___しておいたから、大丈夫だよ。",
+      "anki_back": "根回し（ねまわし）— 提前打招呼，私下铺垫",
+      "image_prompt": "A person quietly preparing soil around a tree root while others wait at a meeting room door",
+      "story_prompt": "一个中国员工到日本公司，第一次学到根回し的重要性"
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "商务",
+        "会议"
+      ],
+      "emotion_tags": [
+        "务实",
+        "谨慎"
+      ],
+      "topic_tags": [
+        "日本文化",
+        "职场沟通"
+      ],
+      "difficulty_tags": [
+        "中级"
+      ]
+    },
+    "metadata": {
+      "source": "JLPT N2",
+      "created_at": "2026-05-25T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
+      "quality_score": 5,
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00002",
+    "basic": {
+      "word": "渋い",
+      "kana": "しぶい",
+      "romaji": "shibui",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "老派的好看，有品位的",
+          "priority": 1,
+          "register": "普通"
+        },
+        {
+          "cn": "涩的（味道）",
+          "priority": 2,
+          "register": "普通"
+        }
+      ],
+      "meanings_en": [
+        "refined, tasteful",
+        "astringent"
+      ],
+      "core_meaning": "低调但有深度的美感，不张扬但越看越有味道",
+      "etymology": "「渋」字原意是柿子的涩味，转义为收敛、不张扬的美感。"
+    },
+    "pronunciation": {
+      "pitch_accent": "しぶい [2] 头高型",
+      "accent_note": "し最高，之后下降",
+      "difficult_pronunciation": false
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この時計、渋いね。おじいちゃんの？",
+          "cn": "这块表好有品位啊。你爷爷的？",
+          "scene": "朋友看到对方戴了一块老式手表",
+          "style": "spoken"
+        },
+        {
+          "jp": "最近は渋い音楽が好きになってきた。",
+          "cn": "最近开始喜欢那种有味道的老派音乐了。",
+          "scene": "聊音乐品味的变化",
+          "style": "spoken"
+        },
+        {
+          "jp": "あの人、見た目は渋いけど性格は面白いよ。",
+          "cn": "那个人外表看着沉稳，但性格很好玩。",
+          "scene": "描述一个熟人的反差",
+          "style": "spoken"
+        }
+      ],
+      "natural_situations": [
+        "夸人有品味",
+        "描述设计风格",
+        "形容成熟男人的韵味"
+      ],
+      "spoken_examples": [
+        "渋いね！",
+        "ちょっと渋いかも。"
+      ],
+      "written_examples": [
+        "渋いデザインが好ましい。"
+      ]
+    },
+    "nuance": {
+      "core_nuance": "中文没有完全对应的词。形容人时不是帅，是那种成熟男人的韵味——穿着简单但很有质感。用这个词的人本身就说明品味。",
+      "emotion": "正面欣赏",
+      "tone": "文艺、有品味",
+      "native_feeling": "听到有人说渋い，就知道他认可的是低调的高级感",
+      "similar_chinese_but_different": "中文的涩是贬义，日语渋い形容人或物时是褒义。",
+      "usage_image": "一个穿着深色西装的中年男人，不说话但气场很强",
+      "formality": 3,
+      "softness": 4,
+      "strength": 2
+    },
+    "exam": {
+      "is_frequently_tested": false,
+      "importance_score": 3,
+      "common_patterns": [
+        "渋いデザイン",
+        "渋い味",
+        "渋い人"
+      ],
+      "common_collocations": [
+        {
+          "pattern": "渋いデザイン",
+          "meaning_cn": "有品位的设计",
+          "frequency": "高"
+        },
+        {
+          "pattern": "渋い味",
+          "meaning_cn": "涩味",
+          "frequency": "中"
+        }
+      ],
+      "grammar_links": [],
+      "reading_usage": "描述风格、品味的文章",
+      "listening_usage": "日常对话",
+      "common_question_types": [
+        "选择题"
+      ],
+      "exam_traps": [
+        "容易翻译成涩的"
+      ],
+      "similar_words": [
+        "かっこいい",
+        "粋"
+      ],
+      "easily_confused_words": [
+        "渋い味 vs 渋い人"
+      ]
+    },
+    "memory": {
+      "memory_hint": "涩柿子——不好看但越品越有味道。渋い的东西第一眼不惊艳，但越看越喜欢。",
+      "association_method": "画面+谐音",
+      "image_scene": "一个穿着深色西装的中年男人，不说话但气场很强",
+      "story_method": "涩柿子不好看，但越吃越有味道。渋い的人也一样。",
+      "keyword_memory": "渋=涩，涩柿子→越品越有味道→有品位",
+      "chinese_memory_trick": "中文的涩几乎都是贬义，但日语渋い形容审美时是高级夸奖。"
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_age_group": "30岁以上",
+      "gender_tendency": "多用于男性",
+      "frequency_score": 3,
+      "common_in_daily_life": true,
+      "common_in_anime": true,
+      "common_in_news": false,
+      "conjugal_forms": null
+    },
+    "culture": {
+      "japan_culture_note": "渋い是日本审美「侘び寂び」的日常体现。",
+      "social_context": "夸人时用渋い，说明你认可对方的品味而不是外表",
+      "hidden_meaning": "用渋い夸人，暗示对方有阅历、有深度",
+      "air_reading_note": "",
+      "japanese_workplace_note": "形容上司或前辈的风格时可以用，是尊重的表达"
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "渋い就是涩的、不好吃的。",
+          "correct": "渋い形容人或设计时是褒义，意思是低调有品位。",
+          "explanation": "中文的涩几乎都是贬义，但日语渋い形容审美时是高级夸奖。"
+        }
+      ],
+      "wrong_usage_examples": [],
+      "wrong_translations": [
+        "渋い=涩的❌ 渋い=有品位的✅"
+      ],
+      "chinese_interference": [
+        "中文的涩几乎都是贬义，导致中国人看到渋い会想到不好吃的"
+      ],
+      "native_speaker_corrections": [
+        "日本人会说：あの人、渋いよね，语气是欣赏"
+      ]
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "粋",
+          "diff": "粋更偏江户风情，渋い更现代"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "派手",
+          "diff": "张扬华丽"
+        }
+      ],
+      "related_words": [
+        "侘び寂び"
+      ],
+      "related_grammar": [],
+      "related_expressions": [
+        "渋い味",
+        "渋いデザイン"
+      ]
+    },
+    "ai_learning": {
+      "shadowing_sentence": "この時計、渋いね。おじいちゃんの？",
+      "conversation_topic": "你觉得什么样的风格算渋い？",
+      "roleplay_scene": "你朋友穿了一身很有品味的衣服，你怎么夸他？",
+      "speaking_question": "描述一个你觉得渋い的人或物。",
+      "writing_question": "用渋い写一段描述你喜欢的设计风格。",
+      "anki_front": "この時計、___ね。おじいちゃんの？",
+      "anki_back": "渋い（しぶい）— 有品位的，老派的好看",
+      "image_prompt": "A middle-aged man in a dark suit, quiet but strong presence",
+      "story_prompt": "一个人第一次被人夸渋い，他以为是在说他老气"
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "审美"
+      ],
+      "emotion_tags": [
+        "欣赏",
+        "文艺"
+      ],
+      "topic_tags": [
+        "审美",
+        "日本文化"
+      ],
+      "difficulty_tags": [
+        "中级"
+      ]
+    },
+    "metadata": {
+      "source": "JLPT N2",
+      "created_at": "2026-05-25T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
+      "quality_score": 5,
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00003",
+    "basic": {
+      "word": "モメる",
+      "kana": "もめる",
+      "romaji": "momeru",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "自动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "闹纠纷，起争执，扯皮",
+          "priority": 1,
+          "register": "普通"
+        }
+      ],
+      "meanings_en": [
+        "to have a dispute",
+        "to be in conflict"
+      ],
+      "core_meaning": "各方立场不同导致事情卡住了，拖拖拉拉地来回拉扯",
+      "etymology": "「揉む」是揉搓的意思，「揉める」转义为双方像揉面一样来回拉扯。"
+    },
+    "pronunciation": {
+      "pitch_accent": "もめる [2] 头高型",
+      "accent_note": "も最高，之后下降",
+      "difficult_pronunciation": false
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この件、部署間でモメてるらしいよ。",
+          "cn": "这件事好像部门之间在扯皮呢。",
+          "scene": "同事之间八卦公司的事",
+          "style": "spoken"
+        },
+        {
+          "jp": "遺産のことで家族がモメている。",
+          "cn": "因为遗产的事家里在闹。",
+          "scene": "朋友之间聊家事",
+          "style": "spoken"
+        },
+        {
+          "jp": "モメないように、最初にルールを決めておこう。",
+          "cn": "为了不扯皮，咱们先把规则定好吧。",
+          "scene": "项目开始前的讨论",
+          "style": "spoken"
+        }
+      ],
+      "natural_situations": [
+        "部门之间扯皮",
+        "家庭遗产纠纷",
+        "项目分工争议"
+      ],
+      "spoken_examples": [
+        "モメてるらしいよ。",
+        "モメないようにしてね。"
+      ],
+      "written_examples": [
+        "トラブルがモメている。"
+      ]
+    },
+    "nuance": {
+      "core_nuance": "比争论轻，比吵架重。核心感觉是拖拖拉拉地来回拉扯，事情卡住了推不动。",
+      "emotion": "负面",
+      "tone": "抱怨、无奈",
+      "native_feeling": "听到モメる就知道事情卡住了，推不动",
+      "similar_chinese_but_different": "中文的吵架强调激烈，日语モメる强调停滞不前。",
+      "usage_image": "两个人各拉着绳子一头，谁都不松手",
+      "formality": 2,
+      "softness": 2,
+      "strength": 3
+    },
+    "exam": {
+      "is_frequently_tested": false,
+      "importance_score": 3,
+      "common_patterns": [
+        "モメる",
+        "モメ事が起きる"
+      ],
+      "common_collocations": [
+        {
+          "pattern": "モメる",
+          "meaning_cn": "闹纠纷",
+          "frequency": "高"
+        }
+      ],
+      "grammar_links": [],
+      "reading_usage": "新闻报道、职场文章",
+      "listening_usage": "日常对话",
+      "common_question_types": [
+        "选择题"
+      ],
+      "exam_traps": [
+        "容易翻译成吵架"
+      ],
+      "similar_words": [
+        "喧嘩する"
+      ],
+      "easily_confused_words": [
+        "喧嘩する vs モメる"
+      ]
+    },
+    "memory": {
+      "memory_hint": "モメる发音像「摸」——你摸过来我摸过去，谁都不肯先松手，事情就卡住了。",
+      "association_method": "谐音+画面",
+      "image_scene": "两个人各拉着绳子一头，谁都不松手",
+      "story_method": "两个人揉面团，你揉过来我揉过去，谁都不肯停——事情就卡住了。",
+      "keyword_memory": "揉める=揉搓→来回拉扯→扯皮",
+      "chinese_memory_trick": "中文揉是用手搓的动作，日语モメる是纠纷。"
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_age_group": "全年齢",
+      "gender_tendency": "中性",
+      "frequency_score": 3,
+      "common_in_daily_life": true,
+      "common_in_anime": false,
+      "common_in_news": true,
+      "conjugal_forms": {
+        "masu": "もめます",
+        "te": "もめて",
+        "nai": "もめない",
+        "ta": "もめた"
+      }
+    },
+    "culture": {
+      "japan_culture_note": "モメる在日本新闻中非常高频。",
+      "social_context": "日常对话中用来八卦别人的纠纷",
+      "hidden_meaning": "日本人非常害怕モメる，所以会尽量避免正面冲突",
+      "air_reading_note": "",
+      "japanese_workplace_note": "日本人为了避免モﾒる会提前做根回し"
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "モメる就是吵架。",
+          "correct": "モﾒる强调的是事情因此停滞不前，不是冲突的激烈程度。",
+          "explanation": "两个人激烈争论但很快达成结论，不叫モﾒる。"
+        }
+      ],
+      "wrong_usage_examples": [],
+      "wrong_translations": [
+        "モﾒる=吵架❌ モﾒる=扯皮✅"
+      ],
+      "chinese_interference": [
+        "中文吵架强调激烈，日语モﾒる强调停滞"
+      ],
+      "native_speaker_corrections": [
+        "日本人会说：あの件、まだモﾒてるよ"
+      ]
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "すんなり",
+          "diff": "顺利推进"
+        }
+      ],
+      "related_words": [
+        "喧嘩する"
+      ],
+      "related_grammar": [],
+      "related_expressions": [
+        "モﾒ事"
+      ]
+    },
+    "ai_learning": {
+      "shadowing_sentence": "この件、部署間でモﾒてるらしいよ。",
+      "conversation_topic": "你遇到过部门之间扯皮的情况吗？",
+      "roleplay_scene": "你同事告诉你一个项目在扯皮，你怎么回应？",
+      "speaking_question": "描述一个你经历过的扯皮 situation。",
+      "writing_question": "用モﾒる写一封邮件，说明项目因为扯皮而延期。",
+      "anki_front": "この件、部署間で___てるらしいよ。",
+      "anki_back": "モﾒる（もめる）— 闹纠纷，扯皮",
+      "image_prompt": "Two people pulling a rope from both ends, neither letting go",
+      "story_prompt": "两个部门因为一个项目扯皮了一个月"
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "家庭",
+        "新闻"
+      ],
+      "emotion_tags": [
+        "无奈",
+        "抱怨"
+      ],
+      "topic_tags": [
+        "纠纷",
+        "沟通"
+      ],
+      "difficulty_tags": [
+        "中级"
+      ]
+    },
+    "metadata": {
+      "source": "JLPT N2",
+      "created_at": "2026-05-25T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
+      "quality_score": 5,
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00004",
+    "basic": {
+      "word": "面倒くさい",
+      "kana": "めんどうくさい",
+      "romaji": "mendokusai",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "好麻烦啊，懒得弄",
+          "priority": 1,
+          "register": "くだけた"
+        }
+      ],
+      "meanings_en": [
+        "such a hassle",
+        "too much trouble"
+      ],
+      "core_meaning": "嫌麻烦、懒得动，对事情或人的抱怨",
+      "etymology": "面倒（麻烦）+ くさい（有…感觉的后缀）"
+    },
+    "pronunciation": {
+      "pitch_accent": "めんどうくさい [0] 平板型",
+      "accent_note": "整体平坦",
+      "difficult_pronunciation": false
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "あ、書類の整理か…めんどいな。",
+          "cn": "啊，整理文件啊…好烦啊。",
+          "scene": "看到待办事项时的反应",
+          "style": "spoken"
+        },
+        {
+          "jp": "毎回説明するの、面倒くさいんだよ。",
+          "cn": "每次都得解释一遍，真的很烦。",
+          "scene": "对重复工作的抱怨",
+          "style": "spoken"
+        },
+        {
+          "jp": "面倒くさいことは先にやっちゃおう。",
+          "cn": "麻烦的事先干完算了。",
+          "scene": "自我激励",
+          "style": "spoken"
+        }
+      ],
+      "natural_situations": [
+        "看到待办事项叹气",
+        "对重复工作抱怨"
+      ],
+      "spoken_examples": [
+        "めんどいな。",
+        "面倒くさい…"
+      ],
+      "written_examples": [
+        "面倒くさい手続きが多い。"
+      ]
+    },
+    "nuance": {
+      "core_nuance": "日本年轻人的口头禅之一。核心是嫌麻烦、懒得动。口语里经常缩短为めんどい。",
+      "emotion": "消极、懒散",
+      "tone": "抱怨、吐槽",
+      "native_feeling": "听到面倒くさい就知道对方在吐槽，不想动",
+      "similar_chinese_but_different": "中文的麻烦偏客观描述，面倒くさい偏主观抱怨。",
+      "usage_image": "一个人瘫在椅子上，对着电脑叹气",
+      "formality": 1,
+      "softness": 2,
+      "strength": 3
+    },
+    "exam": {
+      "is_frequently_tested": true,
+      "importance_score": 4,
+      "common_patterns": [
+        "面倒くさい仕事",
+        "面倒くさい人",
+        "めんどい"
+      ],
+      "common_collocations": [
+        {
+          "pattern": "面倒くさい仕事",
+          "meaning_cn": "麻烦的工作",
+          "frequency": "高"
+        }
+      ],
+      "grammar_links": [],
+      "reading_usage": "日常对话类文章",
+      "listening_usage": "高频",
+      "common_question_types": [
+        "选择题"
+      ],
+      "exam_traps": [
+        "容易在正式场合使用"
+      ],
+      "similar_words": [
+        "複雑"
+      ],
+      "easily_confused_words": [
+        "面倒くさい vs 複雑"
+      ]
+    },
+    "memory": {
+      "memory_hint": "面倒=麻烦，くさい=臭。麻烦到发臭了——好烦啊。",
+      "association_method": "拆字+画面",
+      "image_scene": "一个人瘫在椅子上，对着电脑叹气",
+      "story_method": "面倒就是麻烦，くさい是臭。事情麻烦到发臭了，谁都不想碰。",
+      "keyword_memory": "面倒=麻烦，くさい=臭→麻烦到发臭",
+      "chinese_memory_trick": "虽然意思和中文接近，但面倒くさい的语气比中文的麻烦更重、更懒散。"
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": false,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_age_group": "15-35岁",
+      "gender_tendency": "中性",
+      "frequency_score": 5,
+      "common_in_daily_life": true,
+      "common_in_anime": true,
+      "common_in_news": false,
+      "conjugal_forms": null
+    },
+    "culture": {
+      "japan_culture_note": "面倒くさい是日本年轻人文化的核心词之一。",
+      "social_context": "朋友之间可以随便说，但正式场合绝对不能用",
+      "hidden_meaning": "说某人面倒くさい，是说这个人事多、难搞",
+      "air_reading_note": "",
+      "japanese_workplace_note": "同事之间私下可以说，但绝对不能当着上司的面说"
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语体",
+          "wrong": "对上司说「この仕事は面倒くさいです」。",
+          "correct": "对上司要说「この仕事は手間がかかります」。",
+          "explanation": "面倒くさい太随意，正式场合不行。"
+        }
+      ],
+      "wrong_usage_examples": [],
+      "wrong_translations": [
+        "面倒くさい=复杂❌ 面倒くさい=好麻烦啊✅"
+      ],
+      "chinese_interference": [
+        "中文的麻烦可以用在正式场合，但面倒くさい不行"
+      ],
+      "native_speaker_corrections": [
+        "对上司要说：この仕事は手間がかかります"
+      ]
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "めんどい",
+          "diff": "口语缩略形式"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "簡単",
+          "diff": "简单轻松"
+        }
+      ],
+      "related_words": [
+        "面倒"
+      ],
+      "related_grammar": [],
+      "related_expressions": [
+        "面倒くさい人"
+      ]
+    },
+    "ai_learning": {
+      "shadowing_sentence": "あ、書類の整理か…めんどいな。",
+      "conversation_topic": "你觉得什么事情最面倒くさい？",
+      "roleplay_scene": "你朋友让你帮忙做一件很麻烦的事，你怎么回应？",
+      "speaking_question": "描述一个你觉得最面倒くさい的工作。",
+      "writing_question": "用面倒くさい写一段吐槽工作的话。",
+      "anki_front": "あ、書類の整理か…___な。",
+      "anki_back": "面倒くさい（めんどうくさい）— 好麻烦啊",
+      "image_prompt": "A person slumped in a chair, sighing at a computer",
+      "story_prompt": "一个日本年轻人每天早上看到待办事项就叹气说面倒くさい"
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "职场"
+      ],
+      "emotion_tags": [
+        "懒散",
+        "抱怨"
+      ],
+      "topic_tags": [
+        "日常表达",
+        "年轻人文化"
+      ],
+      "difficulty_tags": [
+        "初级"
+      ]
+    },
+    "metadata": {
+      "source": "JLPT N2",
+      "created_at": "2026-05-25T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
+      "quality_score": 5,
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00005",
+    "basic": {
+      "word": "もったいない",
+      "kana": "もったいない",
+      "romaji": "mottainai",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "太可惜了，太浪费了",
+          "priority": 1,
+          "register": "普通"
+        }
+      ],
+      "meanings_en": [
+        "what a waste",
+        "too good to waste"
+      ],
+      "core_meaning": "浪费了事物本身的价值，不只是物质层面的可惜",
+      "etymology": "勿体（もったい）是佛教用语，指事物的本体/本质。勿体無い=连本质都没了=太可惜了。"
+    },
+    "pronunciation": {
+      "pitch_accent": "もったいない [0] 平板型",
+      "accent_note": "整体平坦",
+      "difficult_pronunciation": false
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "こんなに残すの、もったいないよ。",
+          "cn": "剩这么多，太浪费了。",
+          "scene": "看到朋友点了很多菜吃不完",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼女の気持ちを無にするのはもったいない。",
+          "cn": "辜负她的心意太可惜了。",
+          "scene": "劝朋友珍惜别人的善意",
+          "style": "spoken"
+        },
+        {
+          "jp": "もったいない精神は大切にしたい。",
+          "cn": "想珍惜惜物的精神。",
+          "scene": "讨论环保话题",
+          "style": "written"
+        }
+      ],
+      "natural_situations": [
+        "劝人不要浪费食物",
+        "劝人珍惜机会",
+        "劝人珍惜别人的善意"
+      ],
+      "spoken_examples": [
+        "もったいない！",
+        "もったいないよ。"
+      ],
+      "written_examples": [
+        "もったいない精神を大切にする。"
+      ]
+    },
+    "nuance": {
+      "core_nuance": "日本人的核心价值观之一。不只是浪费钱的可惜，更是浪费了事物本身价值的可惜。它的范围比中文的浪费广得多，包含了一种对事物的敬畏。",
+      "emotion": "惋惜、珍惜",
+      "tone": "劝诫、感叹",
+      "native_feeling": "听到もったいない就知道对方在劝你珍惜某样东西",
+      "similar_chinese_but_different": "中文的浪费偏重物质层面，もったいない还包含精神层面的可惜。",
+      "usage_image": "一个人看着倒掉的剩菜，双手合十",
+      "formality": 2,
+      "softness": 3,
+      "strength": 3
+    },
+    "exam": {
+      "is_frequently_tested": true,
+      "importance_score": 4,
+      "common_patterns": [
+        "もったいないことをする",
+        "もったいない！",
+        "もったいない精神"
+      ],
+      "common_collocations": [
+        {
+          "pattern": "もったいない！",
+          "meaning_cn": "太可惜了！",
+          "frequency": "高"
+        }
+      ],
+      "grammar_links": [],
+      "reading_usage": "环保、文化类文章",
+      "listening_usage": "高频",
+      "common_question_types": [
+        "选择题",
+        "填空题"
+      ],
+      "exam_traps": [
+        "容易只理解成浪费钱"
+      ],
+      "similar_words": [
+        "惜しい"
+      ],
+      "easily_confused_words": [
+        "もったいない vs 惜しい"
+      ]
+    },
+    "memory": {
+      "memory_hint": "勿体=本体/本质，無い=没有。连本质都没有了——太可惜了。",
+      "association_method": "词源+画面",
+      "image_scene": "一个人看着倒掉的剩菜，双手合十",
+      "story_method": "佛教说万物都有本体，把本体弄没了就是最大的可惜。",
+      "keyword_memory": "勿体=本体，無い=没有→本体没了→可惜",
+      "chinese_memory_trick": "中文的浪费只针对物质，もったいない还针对精神层面。"
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_age_group": "全年齢",
+      "gender_tendency": "中性",
+      "frequency_score": 5,
+      "common_in_daily_life": true,
+      "common_in_anime": true,
+      "common_in_news": true,
+      "conjugal_forms": null
+    },
+    "culture": {
+      "japan_culture_note": "もったいない是日本人从小听到大的词。肯尼亚的诺贝尔和平奖得主还把它推广到了全世界。",
+      "social_context": "日常生活高频词，可以用于劝人珍惜事物、食物、机会、感情",
+      "hidden_meaning": "说もったいない时，不只是说浪费，是在表达对事物的敬畏",
+      "air_reading_note": "",
+      "japanese_workplace_note": "可以用于劝同事珍惜资源"
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "もったいない就是浪费钱。",
+          "correct": "もったいない是浪费了事物本身的价值，不限于钱。",
+          "explanation": "浪费别人的好意、浪费好天气都可以用もったいない。"
+        }
+      ],
+      "wrong_usage_examples": [],
+      "wrong_translations": [
+        "もったいない=浪费钱❌ もったいない=太可惜了✅"
+      ],
+      "chinese_interference": [
+        "中国人容易只理解成浪费钱"
+      ],
+      "native_speaker_corrections": [
+        "日本人会说：彼女の気持ちを無にするのはもったいない"
+      ]
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "惜しい",
+          "diff": "差一点的可惜"
+        }
+      ],
+      "antonyms": [],
+      "related_words": [
+        "勿体無い",
+        "大切にする"
+      ],
+      "related_grammar": [],
+      "related_expressions": [
+        "もったいない精神"
+      ]
+    },
+    "ai_learning": {
+      "shadowing_sentence": "こんなに残すの、もったいないよ。",
+      "conversation_topic": "你觉得什么事情最もったいない？",
+      "roleplay_scene": "你朋友要把还能用的东西扔掉，你怎么劝他？",
+      "speaking_question": "描述一个你觉得もったいない的 situation。",
+      "writing_question": "用もったいない写一段关于珍惜的话。",
+      "anki_front": "こんなに残すの、___よ。",
+      "anki_back": "もったいない — 太可惜了，太浪费了",
+      "image_prompt": "A person looking at leftover food with hands together",
+      "story_prompt": "一个外国人第一次听到もったいない，被日本人的珍惜精神打动"
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "环保",
+        "家庭"
+      ],
+      "emotion_tags": [
+        "珍惜",
+        "惋惜"
+      ],
+      "topic_tags": [
+        "日本文化",
+        "价值观"
+      ],
+      "difficulty_tags": [
+        "初级"
+      ]
+    },
+    "metadata": {
+      "source": "JLPT N2",
+      "created_at": "2026-05-25T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
+      "quality_score": 5,
+      "reviewed": false
+    }
+  }
+]
