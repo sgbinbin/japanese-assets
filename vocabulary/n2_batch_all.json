@@ -1893,5 +1893,3044 @@
       "word": null,
       "sentences": []
     }
+  },
+  {
+    "id": "n2_00014",
+    "tier": "S",
+    "basic": {
+      "word": "配慮",
+      "kana": "はいりょ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "体贴",
+          "priority": 1
+        },
+        {
+          "cn": "关怀",
+          "priority": 2
+        },
+        {
+          "cn": "顾虑",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "事先为对方着想而采取的行动"
+    },
+    "nuance": {
+      "core_nuance": "不是被动的同情，是主动为对方减少不便。中国人容易翻译成「考虑」，但配慮的重点是「为别人」而不是「为自己想」。在日本社会，配慮是评价一个人品格的重要标准。",
+      "formality": 3,
+      "emotion": "温暖"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "年配の方への配慮が必要だ。",
+          "cn": "需要为老年人做些考虑。",
+          "scene": "公共场合",
+          "style": "written"
+        },
+        {
+          "jp": "彼女は周りへの配慮が足りない。",
+          "cn": "她不太顾及周围的人。",
+          "scene": "评价他人",
+          "style": "spoken"
+        },
+        {
+          "jp": "ご配慮いただきありがとうございます。",
+          "cn": "感谢您的关照。",
+          "scene": "正式邮件",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "配慮する",
+          "体贴/关照",
+          "高"
+        ],
+        [
+          "配慮が必要",
+          "需要考虑",
+          "高"
+        ],
+        [
+          "配慮を欠く",
+          "缺乏关怀",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "自分の配慮をする（为自己做考虑）",
+          "correct": "配慮は他人のためにするもの",
+          "explanation": "配慮一定是为别人，不是为自己。中文「考虑」可以是双向的。"
+        }
+      ],
+      "confused_with": [
+        [
+          "考慮",
+          "考慮是客观分析，配慮是为他人着想"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "配=分配，慮=思慮。把思慮分配给别人——为别人想。",
+      "image_scene": null,
+      "chinese_memory_trick": "中文没有完全对应的词。「体贴」最接近，但配慮更正式。"
+    },
+    "culture": {
+      "japan_culture_note": "日本人从小被教育要「配慮ある行動」。在电车上给老人让座就是最基本的配慮。",
+      "social_context": "职场、公共场合、人际关系评价",
+      "japanese_workplace_note": "上司评价下属「配慮がある」是很高的褒奖。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "思いやり",
+          "diff": "思いやり更感性，配慮更行为化"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "人际关系",
+        "评价"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00014_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00014_sent1.mp3",
+        "audio/n2/n2_00014_sent2.mp3",
+        "audio/n2/n2_00014_sent3.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00015",
+    "tier": "S",
+    "basic": {
+      "word": "段取り",
+      "kana": "だんどり",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "安排",
+          "priority": 1
+        },
+        {
+          "cn": "计划",
+          "priority": 2
+        },
+        {
+          "cn": "步骤",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "做事的先后顺序和安排"
+    },
+    "nuance": {
+      "core_nuance": "日本人做任何事之前都要先「段取りを決める」。不光是大项目，连周末出去玩也要先定好行程。段取りがいい人=靠谱的人。中国人说「安排」比较随意，但日语的段取り带有一种流程管理的味道。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "段取りがいい人だよね、彼。",
+          "cn": "他真是个会安排的人。",
+          "scene": "夸人",
+          "style": "spoken"
+        },
+        {
+          "jp": "まず段取りを決めてから始めよう。",
+          "cn": "先定好步骤再开始吧。",
+          "scene": "项目开始",
+          "style": "spoken"
+        },
+        {
+          "jp": "段取りが悪いと後で大変になるよ。",
+          "cn": "安排不好的话后面会很麻烦的。",
+          "scene": "提醒同事",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "段取りを決める",
+          "定好安排",
+          "高"
+        ],
+        [
+          "段取りがいい",
+          "会安排的",
+          "高"
+        ],
+        [
+          "段取りが悪い",
+          "安排不好",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "段取り就是段落的意思。",
+          "correct": "段取り是做事的顺序和安排，和段落无关。",
+          "explanation": "汉字看起来像「段+取」，但实际意思是步骤安排。"
+        }
+      ],
+      "confused_with": [
+        [
+          "段階",
+          "段階是阶段，段取り是安排"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "段（步骤）+取（取舍）=决定做事的先后顺序。",
+      "image_scene": null,
+      "chinese_memory_trick": "不要想成「段落」。想想「按步骤取舍」。"
+    },
+    "culture": {
+      "japan_culture_note": "日本人的段取り文化：旅行前做Excel行程表、聚会前AA制算清楚、工作前先写计划书。",
+      "social_context": "日常和职场都常用。段取りがいい=靠谱的代名词。",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "手順",
+          "diff": "手順更正式，段取り更口语"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "日常",
+        "计划"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00015_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00015_sent1.mp3",
+        "audio/n2/n2_00015_sent2.mp3",
+        "audio/n2/n2_00015_sent3.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00016",
+    "tier": "S",
+    "basic": {
+      "word": "気配",
+      "kana": "けはい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "气息",
+          "priority": 1
+        },
+        {
+          "cn": "迹象",
+          "priority": 2
+        },
+        {
+          "cn": "动静",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "感觉到某物/某人存在但看不到的微弱信号"
+    },
+    "nuance": {
+      "core_nuance": "中文的「气息」偏文学，但日语的気配是日常用语。可以是人的动静、天气变化的迹象、市场走势的苗头。关键在于「感觉到但不确定」。中国人容易读错成「きはい」，正确读音是「けはい」。",
+      "formality": 2,
+      "emotion": "中性偏紧张"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "誰かいる気配がした。",
+          "cn": "感觉好像有人在。",
+          "scene": "独处时",
+          "style": "spoken"
+        },
+        {
+          "jp": "雨が降る気配がない。",
+          "cn": "看不出要下雨的迹象。",
+          "scene": "看天气",
+          "style": "spoken"
+        },
+        {
+          "jp": "経済回復の気配が見られる。",
+          "cn": "可以看到经济复苏的迹象。",
+          "scene": "新闻",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "気配がする",
+          "感觉到动静",
+          "高"
+        ],
+        [
+          "気配を察する",
+          "察觉到气息",
+          "中"
+        ],
+        [
+          "気配がない",
+          "没有迹象",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "读音",
+          "wrong": "きはい",
+          "correct": "けはい",
+          "explanation": "気在这里读け，不是き。"
+        },
+        {
+          "type": "语感",
+          "wrong": "気配就是空气的味道。",
+          "correct": "気配是感觉到的存在/迹象，不是物理的气味。",
+          "explanation": "气配 ≠ 空気の匂い。是一种直觉上的感知。"
+        }
+      ],
+      "confused_with": [
+        [
+          "気分",
+          "気分是心情，気配是外界的迹象"
+        ],
+        [
+          "気味",
+          "気味是倾向/稍微，気配是存在的信号"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "気（直觉）+配（分配/散布）=直觉捕捉到散布在空气中的信号。",
+      "image_scene": null,
+      "chinese_memory_trick": "读音陷阱：けはい，不是きはい。「气」在日语很多词里读け。"
+    },
+    "culture": {
+      "japan_culture_note": "日本恐怖片常用「気配を感じる」制造悬念。日常也经常用。",
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "兆し",
+          "diff": "兆し更书面，気配更口语"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "感知",
+        "描述",
+        "新闻"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00016_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00016_sent1.mp3",
+        "audio/n2/n2_00016_sent2.mp3",
+        "audio/n2/n2_00016_sent3.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00017",
+    "tier": "A",
+    "basic": {
+      "word": "促す",
+      "kana": "うながす",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "催促",
+          "priority": 1
+        },
+        {
+          "cn": "促使",
+          "priority": 2
+        },
+        {
+          "cn": "促进",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "用言语或行动推动对方做某事"
+    },
+    "nuance": {
+      "core_nuance": "比「催促」更积极，不光是催，还有推动促成的意思。中文的「促进」偏宏观，日语促す可以用在日常小事上。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "彼女の言葉が私の決断を促した。",
+          "cn": "她的话促使我做出了决定。",
+          "scene": "回顾",
+          "style": "spoken"
+        },
+        {
+          "jp": "早めにお願いしますと促した。",
+          "cn": "我催他早点弄。",
+          "scene": "职场",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "～を促す",
+          "促使/催促",
+          "高"
+        ],
+        [
+          "参加を促す",
+          "推动参加",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "催す",
+          "催す只催不推，促す有推动效果"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "促=促进+催促的结合体。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00017_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00017_sent1.mp3",
+        "audio/n2/n2_00017_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00018",
+    "tier": "A",
+    "basic": {
+      "word": "抑える",
+      "kana": "おさえる",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "抑制",
+          "priority": 1
+        },
+        {
+          "cn": "控制",
+          "priority": 2
+        },
+        {
+          "cn": "压住",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "控制住不让其发展或爆发"
+    },
+    "nuance": {
+      "core_nuance": "可以用在情绪（怒りを抑える）、数量（コストを抑える）、物理（相手を抑える）。中国人容易和「押さえる」搞混。",
+      "formality": 2,
+      "emotion": "中性偏负面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "感情を抑えるのが苦手だ。",
+          "cn": "我不擅长控制感情。",
+          "scene": "自我分析",
+          "style": "spoken"
+        },
+        {
+          "jp": "コストを抑える必要がある。",
+          "cn": "需要控制成本。",
+          "scene": "职场",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "感情を抑える",
+          "控制感情",
+          "高"
+        ],
+        [
+          "コストを抑える",
+          "控制成本",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "直觉",
+          "wrong": "把成本压住 = 降低成本",
+          "correct": "抑える是不让它涨上去，不是让它降下来。",
+          "explanation": "抑制 ≠ 降低。抑制是阻止上升，降低是让它下来。"
+        }
+      ],
+      "confused_with": [
+        [
+          "押さえる",
+          "押さえる是物理按住/抓住，抑える是抽象控制"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "抑=抑制。用手（偏旁）压住。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "情感",
+        "经济"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00018_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00018_sent1.mp3",
+        "audio/n2/n2_00018_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00019",
+    "tier": "A",
+    "basic": {
+      "word": "携わる",
+      "kana": "たずさわる",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "参与",
+          "priority": 1
+        },
+        {
+          "cn": "从事",
+          "priority": 2
+        },
+        {
+          "cn": "投身",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "长期参与某项工作或活动"
+    },
+    "nuance": {
+      "core_nuance": "不是随便参加一下，是正式地、持续地参与。中国人容易读错（たずさわる，不是けいわる）。常用于自我介绍和简历。",
+      "formality": 3,
+      "emotion": "中性偏正面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "教育に携わっている。",
+          "cn": "从事教育工作。",
+          "scene": "自我介绍",
+          "style": "spoken"
+        },
+        {
+          "jp": "このプロジェクトに初めから携わった。",
+          "cn": "从一开始就参与了这个项目。",
+          "scene": "说明经历",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "～に携わる",
+          "从事/参与",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "读音",
+          "wrong": "けいわる",
+          "correct": "たずさわる",
+          "explanation": "这个字在携帯(けいたい)里读けい，但携わる读たずさわる。"
+        }
+      ],
+      "confused_with": [
+        [
+          "従事する",
+          "従事する更书面正式"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "携=携带。携带着使命去参与。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "自我介绍",
+        "简历"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00019_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00019_sent1.mp3",
+        "audio/n2/n2_00019_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00020",
+    "tier": "A",
+    "basic": {
+      "word": "取り消す",
+      "kana": "とりけす",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "取消",
+          "priority": 1
+        },
+        {
+          "cn": "撤回",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "取消已经说过的或决定的事情"
+    },
+    "nuance": {
+      "core_nuance": "比カジュアル的「やめる」更正式。订单、发言、预约都可以取り消す。中国人用法和中文「取消」基本一样。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "予約を取り消したいのですが。",
+          "cn": "我想取消预约。",
+          "scene": "电话",
+          "style": "spoken"
+        },
+        {
+          "jp": "発言を取り消してください。",
+          "cn": "请撤回你的发言。",
+          "scene": "会议",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "予約を取り消す",
+          "取消预约",
+          "高"
+        ],
+        [
+          "注文を取り消す",
+          "取消订单",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "キャンセルする",
+          "キャンセル更口语随意"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "取って戻す——取回来。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "预约",
+        "商务",
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00020_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00020_sent1.mp3",
+        "audio/n2/n2_00020_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00021",
+    "tier": "A",
+    "basic": {
+      "word": "届ける",
+      "kana": "とどける",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "送到",
+          "priority": 1
+        },
+        {
+          "cn": "递送",
+          "priority": 2
+        },
+        {
+          "cn": "报告",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "把东西送到某处，或把信息报告给上级"
+    },
+    "nuance": {
+      "core_nuance": "物理的「送东西」和抽象的「报告」都用。届け出る（登记申报）是不同词。中文「送到」没有「报告」这层意思。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "荷物を届けに来た。",
+          "cn": "我来送包裹的。",
+          "scene": "快递",
+          "style": "spoken"
+        },
+        {
+          "jp": "警察に届けた。",
+          "cn": "报告给警察了。",
+          "scene": "报警",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "届け出る",
+          "申报登记",
+          "中"
+        ],
+        [
+          "～を届ける",
+          "送到",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "届ける就是deliver。",
+          "correct": "届ける还有「向上级报告」的意思，deliver没有这层。",
+          "explanation": "警察に届ける ≠ deliver to police，是report to police。"
+        }
+      ],
+      "confused_with": [
+        [
+          "届く",
+          "届く是自动词（到达），届ける是他动词（送达）"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "届=到达。使到达=送达。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "快递",
+        "报警"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00021_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00021_sent1.mp3",
+        "audio/n2/n2_00021_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00022",
+    "tier": "A",
+    "basic": {
+      "word": "避ける",
+      "kana": "さける",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "避开",
+          "priority": 1
+        },
+        {
+          "cn": "避免",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "主动躲开不想面对的事物"
+    },
+    "nuance": {
+      "core_nuance": "物理躲避（車を避ける）和抽象回避（質問を避ける）都用。中国人容易和「除ける(のける)」搞混。",
+      "formality": 2,
+      "emotion": "中性偏负面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この話題は避けたほうがいい。",
+          "cn": "这个话题最好避开。",
+          "scene": "忠告",
+          "style": "spoken"
+        },
+        {
+          "jp": "車を避けた。",
+          "cn": "避开了车。",
+          "scene": "路上",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "～を避ける",
+          "避开/避免",
+          "高"
+        ],
+        [
+          "話題を避ける",
+          "回避话题",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "回避する",
+          "回避する更书面正式"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "避=躲避。和中文意思一样。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "忠告"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00022_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00022_sent1.mp3",
+        "audio/n2/n2_00022_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00023",
+    "tier": "A",
+    "basic": {
+      "word": "欠点",
+      "kana": "けってん",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "缺点",
+          "priority": 1
+        },
+        {
+          "cn": "毛病",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "人或事物的不足之处"
+    },
+    "nuance": {
+      "core_nuance": "中文「缺点」和日语欠点几乎一样。但日语更常用「短所」来对比「長所」。欠点有种「被人挑毛病」的感觉。",
+      "formality": 2,
+      "emotion": "中性偏负面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "人の欠点ばかり言うな。",
+          "cn": "别光说别人的缺点。",
+          "scene": "批评",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼には欠点が多い。",
+          "cn": "他缺点很多。",
+          "scene": "评价",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "欠点を指摘する",
+          "指出缺点",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "弱点",
+          "弱点偏能力不足，欠点偏性格/品质"
+        ],
+        [
+          "短所",
+          "短所是长处的反义，更中性"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "欠=欠缺，点=点。欠缺的点。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "评价",
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00023_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00023_sent1.mp3",
+        "audio/n2/n2_00023_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00024",
+    "tier": "A",
+    "basic": {
+      "word": "予想",
+      "kana": "よそう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "预想",
+          "priority": 1
+        },
+        {
+          "cn": "预测",
+          "priority": 2
+        },
+        {
+          "cn": "预料",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "事先推测未来会发生的事"
+    },
+    "nuance": {
+      "core_nuance": "和中文「预想」基本一样。口语常说「思った」，书面用予想。予想通り=正如所料。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "予想通りの結果だった。",
+          "cn": "结果和预想的一样。",
+          "scene": "总结",
+          "style": "spoken"
+        },
+        {
+          "jp": "予想以上に高かった。",
+          "cn": "比预想的要高。",
+          "scene": "惊讶",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "予想通り",
+          "正如预料",
+          "高"
+        ],
+        [
+          "予想以上",
+          "超出预想",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "予測",
+          "予測更科学/数据化，予想更直觉化"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "予=预先，想=想象。预先想象。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "新闻",
+        "评价"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00024_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00024_sent1.mp3",
+        "audio/n2/n2_00024_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00025",
+    "tier": "A",
+    "basic": {
+      "word": "意識",
+      "kana": "いしき",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "意识",
+          "priority": 1
+        },
+        {
+          "cn": "知觉",
+          "priority": 2
+        },
+        {
+          "cn": "注意力",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "对某事的感知和关注"
+    },
+    "nuance": {
+      "core_nuance": "中文「意识」主要是awareness/consciousness，日语还有「把注意力放在」的意思。意識する=有意识地关注。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "健康に意識している。",
+          "cn": "我在注意健康。",
+          "scene": "日常",
+          "style": "spoken"
+        },
+        {
+          "jp": "意識が薄れた。",
+          "cn": "意识模糊了。",
+          "scene": "医疗",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "意識する",
+          "有意识地关注",
+          "高"
+        ],
+        [
+          "意識がなくなる",
+          "失去意识",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "用法",
+          "wrong": "健康を意識している（关注健康）",
+          "correct": "健康に意識している / 健康を意識する",
+          "explanation": "意识某事用を，意识的状态用に+している。"
+        }
+      ],
+      "confused_with": [
+        [
+          "認識",
+          "认识偏认知过程，意识偏感知状态"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "意=意图，識=认识。有意识的认识。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "健康",
+        "心理"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00025_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00025_sent1.mp3",
+        "audio/n2/n2_00025_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00026",
+    "tier": "A",
+    "basic": {
+      "word": "様子",
+      "kana": "ようす",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "样子",
+          "priority": 1
+        },
+        {
+          "cn": "情况",
+          "priority": 2
+        },
+        {
+          "cn": "状况",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "事物或人的状态和情况"
+    },
+    "nuance": {
+      "core_nuance": "中文的「样子」主要指外表，日语様子还包括内在状态、进展状况。様子を見る=观望情况，是最常用表达。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "彼女の様子がおかしい。",
+          "cn": "她的状态有点奇怪。",
+          "scene": "关心朋友",
+          "style": "spoken"
+        },
+        {
+          "jp": "もう少し様子を見よう。",
+          "cn": "再观察一下情况吧。",
+          "scene": "决定前",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "様子を見る",
+          "观望情况",
+          "高"
+        ],
+        [
+          "様子がおかしい",
+          "状态不对",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "她的样子很漂亮（她的外表）",
+          "correct": "様子不指外貌。外貌用「見た目」。",
+          "explanation": "様子是状态/情况，不是长相。"
+        }
+      ],
+      "confused_with": [
+        [
+          "状況",
+          "状況更客观，様子更主观感受"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "样=模样，子=词缀。事物呈现的状态。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "关心",
+        "日常",
+        "观察"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00026_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00026_sent1.mp3",
+        "audio/n2/n2_00026_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00027",
+    "tier": "A",
+    "basic": {
+      "word": "割り当て",
+      "kana": "わりあて",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "分配",
+          "priority": 1
+        },
+        {
+          "cn": "分摊",
+          "priority": 2
+        },
+        {
+          "cn": "配额",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "按比例或规则把任务/资源分给各人"
+    },
+    "nuance": {
+      "core_nuance": "中文「分配」比较笼统，日语割り当て强调按份额。割り当てられる=被动分配到任务。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "仕事を割り当てた。",
+          "cn": "分配了工作。",
+          "scene": "团队",
+          "style": "spoken"
+        },
+        {
+          "jp": "部屋が割り当てられた。",
+          "cn": "被分配了房间。",
+          "scene": "酒店/宿舍",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "仕事を割り当てする",
+          "分配工作",
+          "高"
+        ],
+        [
+          "役割の割り当て",
+          "角色分配",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "配分",
+          "配分偏按比例分，割り当て偏指定分配"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "割=分割，当て=分配。分割后分配。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "旅行",
+        "团队"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00027_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00027_sent1.mp3",
+        "audio/n2/n2_00027_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00028",
+    "tier": "A",
+    "basic": {
+      "word": "見積もる",
+      "kana": "みつもりる",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "估算",
+          "priority": 1
+        },
+        {
+          "cn": "估计",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "大致计算费用、时间、数量"
+    },
+    "nuance": {
+      "core_nuance": "商务必用词。見積書=报价单。中国人容易读错成「けいさんする」，但見積もる是估算，不是精确计算。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "費用を見積もってください。",
+          "cn": "请估算一下费用。",
+          "scene": "商务",
+          "style": "spoken"
+        },
+        {
+          "jp": "3時間はかかると見積もった。",
+          "cn": "我估计要花3小时。",
+          "scene": "计划",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        [
+          "費用を見積もる",
+          "估算费用",
+          "高"
+        ],
+        [
+          "見積書",
+          "报价单",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "算出する",
+          "算出更精确，見積もる是大致估算"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "見=看，積もる=堆积。看着堆起来的东西估算数量。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "商务",
+        "计划",
+        "报价"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00028_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00028_sent1.mp3",
+        "audio/n2/n2_00028_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00029",
+    "tier": "A",
+    "basic": {
+      "word": "勘違い",
+      "kana": "かんちがい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "误会",
+          "priority": 1
+        },
+        {
+          "cn": "误解",
+          "priority": 2
+        },
+        {
+          "cn": "想多了",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "凭主观感觉做出错误判断"
+    },
+    "nuance": {
+      "core_nuance": "中文「误会」通常是双方信息不对称造成的，日语勘違い更强调单方面「自己想多了」。自作多情的误译。",
+      "formality": 2,
+      "emotion": "中性偏负面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "ちょっと勘違いしてるよ。",
+          "cn": "你有点误会了。",
+          "scene": "纠正",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼女が好きだと勘違いした。",
+          "cn": "我误以为她喜欢我。",
+          "scene": "回忆",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "勘違いする",
+          "误会/想多了",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "我们之间有误会。",
+          "correct": "勘違い是一个人的事，不是双方的。",
+          "explanation": "中文「误会」可以指双方互不了解，日语勘違い是一方想多了。"
+        }
+      ],
+      "confused_with": [
+        [
+          "誤解",
+          "误解更正式，勘違い更口语；误解可以是双方的"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "勘=直觉，違い=不同。直觉判断错了。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "恋爱",
+        "纠正"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00029_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00029_sent1.mp3",
+        "audio/n2/n2_00029_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00030",
+    "tier": "A",
+    "basic": {
+      "word": "仕方",
+      "kana": "しかた",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "方法",
+          "priority": 1
+        },
+        {
+          "cn": "做法",
+          "priority": 2
+        },
+        {
+          "cn": "没办法",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "做事的方式或方法"
+    },
+    "nuance": {
+      "core_nuance": "仕方がない=没办法，是最常用的表达。中文「方法」比较中性，仕方有种「不得不这样做」的感觉。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "仕方がないよ、もう終わったことだ。",
+          "cn": "没办法啊，已经发生了。",
+          "scene": "安慰",
+          "style": "spoken"
+        },
+        {
+          "jp": "仕方を変えてみよう。",
+          "cn": "换个做法试试。",
+          "scene": "讨论",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "仕方がない",
+          "没办法",
+          "高"
+        ],
+        [
+          "仕方を変える",
+          "换个做法",
+          "中"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": [
+        [
+          "方法",
+          "方法更中性正式，仕方更口语"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "仕=做，方=方式。做的方式。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "安慰",
+        "讨论"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00030_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00030_sent1.mp3",
+        "audio/n2/n2_00030_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00031",
+    "tier": "A",
+    "basic": {
+      "word": "戻る",
+      "kana": "もどる",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "返回",
+          "priority": 1
+        },
+        {
+          "cn": "回去",
+          "priority": 2
+        },
+        {
+          "cn": "恢复",
+          "priority": 3
+        }
+      ],
+      "core_meaning": "回到原来的位置或状态"
+    },
+    "nuance": {
+      "core_nuance": "物理返回（家に戻る）和状态恢复（元に戻る）都用。中国人容易和「帰る」搞混——帰る是回目的地（回家），戻る是回到原处。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "ちょっと戻ってもいい？",
+          "cn": "我能回去一下吗？",
+          "scene": "离开又返回",
+          "style": "spoken"
+        },
+        {
+          "jp": "元の状態に戻った。",
+          "cn": "恢复到原来的状态了。",
+          "scene": "报告",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        [
+          "元に戻る",
+          "恢复原状",
+          "高"
+        ],
+        [
+          "～に戻る",
+          "回到/返回",
+          "高"
+        ]
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "搭配",
+          "wrong": "家を戻る",
+          "correct": "家に戻る",
+          "explanation": "戻る是自动词，用に不用を。"
+        }
+      ],
+      "confused_with": [
+        [
+          "帰る",
+          "帰る是回家/回去（目的地），戻る是回到原处"
+        ]
+      ]
+    },
+    "memory": {
+      "memory_hint": "戻=返回。和中文意思一样。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "恢复"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00031_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00031_sent1.mp3",
+        "audio/n2/n2_00031_sent2.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00106",
+    "tier": "B",
+    "basic": {
+      "word": "値段",
+      "kana": "ねだん",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "价格",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "价格"
+    },
+    "nuance": {
+      "core_nuance": "和中文「价格」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この値段は高い。",
+          "cn": "这个价格太贵了。",
+          "scene": "购物",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00106_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00106_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00107",
+    "tier": "B",
+    "basic": {
+      "word": "趣味",
+      "kana": "しゅみ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "爱好",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "爱好"
+    },
+    "nuance": {
+      "core_nuance": "和中文「趣味/爱好」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "趣味は何ですか。",
+          "cn": "你的爱好是什么？",
+          "scene": "自我介绍",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00107_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00107_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00108",
+    "tier": "B",
+    "basic": {
+      "word": "条件",
+      "kana": "じょうけん",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "条件",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "条件"
+    },
+    "nuance": {
+      "core_nuance": "和中文「条件」一样",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "条件に合うかどうか確認して。",
+          "cn": "确认一下是否符合条件。",
+          "scene": "职场",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00108_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00108_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00109",
+    "tier": "B",
+    "basic": {
+      "word": "方法",
+      "kana": "ほうほう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "方法",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "方法"
+    },
+    "nuance": {
+      "core_nuance": "和中文「方法」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "別の方法を考えよう。",
+          "cn": "想个别的方法吧。",
+          "scene": "讨论",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00109_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00109_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00110",
+    "tier": "B",
+    "basic": {
+      "word": "計画",
+      "kana": "けいかく",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "计划",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "计划"
+    },
+    "nuance": {
+      "core_nuance": "和中文「计划」一样",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "旅行の計画を立てた。",
+          "cn": "制定了旅行计划。",
+          "scene": "旅行",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00110_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00110_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00111",
+    "tier": "B",
+    "basic": {
+      "word": "材料",
+      "kana": "ざいりょう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "材料",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "材料"
+    },
+    "nuance": {
+      "core_nuance": "和中文「材料」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "材料はもう揃ってる。",
+          "cn": "材料已经齐了。",
+          "scene": "做饭",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00111_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00111_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00112",
+    "tier": "B",
+    "basic": {
+      "word": "品質",
+      "kana": "ひんしつ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "品质",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "品质"
+    },
+    "nuance": {
+      "core_nuance": "和中文「品质」一样",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "品質がいい商品だ。",
+          "cn": "品质很好的商品。",
+          "scene": "购物",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00112_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00112_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00113",
+    "tier": "B",
+    "basic": {
+      "word": "構造",
+      "kana": "こうぞう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "构造",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "构造"
+    },
+    "nuance": {
+      "core_nuance": "和中文「构造」一样",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この建物の構造は複雑だ。",
+          "cn": "这栋建筑的构造很复杂。",
+          "scene": "说明",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00113_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00113_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00114",
+    "tier": "B",
+    "basic": {
+      "word": "番組",
+      "kana": "ばんぐみ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "节目",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "节目"
+    },
+    "nuance": {
+      "core_nuance": "和中文「节目」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "テレビの番組を見る。",
+          "cn": "看电视节目。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00114_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00114_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00115",
+    "tier": "B",
+    "basic": {
+      "word": "数",
+      "kana": "かず",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "数量",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "数量"
+    },
+    "nuance": {
+      "core_nuance": "和中文「数/数量」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "数が足りない。",
+          "cn": "数量不够。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00115_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00115_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00116",
+    "tier": "B",
+    "basic": {
+      "word": "年齢",
+      "kana": "ねんれい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "年龄",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "年龄"
+    },
+    "nuance": {
+      "core_nuance": "和中文「年龄」一样。比「歳」更正式",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "年齢を聞くのは失礼だ。",
+          "cn": "问年龄是不礼貌的。",
+          "scene": "礼仪",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00116_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00116_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00117",
+    "tier": "B",
+    "basic": {
+      "word": "距離",
+      "kana": "きょり",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "距离",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "距离"
+    },
+    "nuance": {
+      "core_nuance": "和中文「距离」一样",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "ここから遠い距離ではない。",
+          "cn": "离这里不远。",
+          "scene": "指路",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25T09:20:00Z",
+      "reviewed": false
+    },
+    "audio": {
+      "word_audio": "audio/n2/n2_00117_word.mp3",
+      "sentence_audio": [
+        "audio/n2/n2_00117_sent1.mp3"
+      ]
+    }
   }
 ]
