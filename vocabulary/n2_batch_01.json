@@ -61,11 +61,6 @@
           "pattern": "根回しをする",
           "meaning_cn": "做提前沟通",
           "frequency": "高"
-        },
-        {
-          "pattern": "根回しが必要",
-          "meaning_cn": "需要提前铺垫",
-          "frequency": "高"
         }
       ],
       "conjugal_forms": null
@@ -358,7 +353,9 @@
     },
     "audio": {
       "word": null,
-      "sentences": []
+      "sentences": [
+        "audio/n2/n2_00003_sent1.mp3"
+      ]
     }
   },
   {
@@ -468,7 +465,9 @@
     },
     "audio": {
       "word": null,
-      "sentences": []
+      "sentences": [
+        "audio/n2/n2_00004_sent1.mp3"
+      ]
     }
   },
   {
@@ -560,6 +559,227 @@
     "tags": {
       "scene_tags": [
         "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": [
+        "audio/n2/n2_00005_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00006",
+    "tier": "S",
+    "basic": {
+      "word": "手前",
+      "kana": "てまえ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "碍于面子",
+          "priority": 1
+        },
+        {
+          "cn": "面前",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "碍于已经做了某事，不得不继续"
+    },
+    "nuance": {
+      "core_nuance": "最常见的用法是碍于面子。我知道不该这样，但碍于面子不得不做。还有手前味噌（自卖自夸）。",
+      "formality": 2,
+      "emotion": "文脈依存"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "約束した手前、行かないわけにはいかない。",
+          "cn": "碍于已经约好了，不去不行。",
+          "scene": "不想去但不得不去",
+          "style": "spoken"
+        },
+        {
+          "jp": "手前味噌だけど、この料理は自信あるよ。",
+          "cn": "自卖自夸一下，这道菜我很有自信。",
+          "scene": "请人品尝自己做的菜",
+          "style": "spoken"
+        },
+        {
+          "jp": "手前、ちょっと言いにくいけど…。",
+          "cn": "碍于面子，有点不好意思说…",
+          "scene": "想说但不好意思",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "手前味噌",
+          "meaning_cn": "自卖自夸",
+          "frequency": "中"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "手前就是面前。",
+          "correct": "手前最常用的意思是碍于面子。",
+          "explanation": "面前的意思很少用，最常见的用法是碍于面子。"
+        },
+        {
+          "type": "语感",
+          "wrong": "用手前称呼对方。",
+          "correct": "手前称呼对方是非常粗鲁的，相当于你这家伙。",
+          "explanation": "手前做代名词时是骂人用的。"
+        }
+      ],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": "手前=手的前面=面前。碍于面子——你面前有人看着你，你不得不做。",
+      "image_scene": "一个人在众人面前，虽然不想做但碍于面子不得不做",
+      "chinese_memory_trick": "中文的面前只是物理位置，日语手前还有碍于面子的意思。"
+    },
+    "culture": {
+      "japan_culture_note": "手前体现了日本人重面子的文化。",
+      "social_context": "手前味噌是日本特有的自谦式自夸",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00006_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00006_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00007",
+    "tier": "A",
+    "basic": {
+      "word": "打ち合わせ",
+      "kana": "うちあわせ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "碰头会",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "小范围的、非正式的信息对齐会"
+    },
+    "nuance": {
+      "core_nuance": "比会議轻量、比ミーティング更日式。核心是对齐信息而不是做决定。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "来週の打ち合わせ、水曜でいい？",
+          "cn": "下周的碰头会，周三行吗？",
+          "scene": "同事确认时间",
+          "style": "spoken"
+        },
+        {
+          "jp": "ちょっと打ち合わせしましょう、5分でいいから。",
+          "cn": "咱们碰一下吧，5分钟就行。",
+          "scene": "前辈对后辈",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "打ち合わせをする",
+          "meaning_cn": "开碰头会",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语体",
+          "wrong": "把打ち合わせ翻译成会议。",
+          "correct": "打ち合わせ比会議轻量，更接近碰头会。",
+          "explanation": "会議是正式的会议，打ち合わせ是非正式的小会。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "会議",
+          "diff": "会議更正式更大，打ち合わせ更轻量更小范围"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "打つ=碰，合わせ=合。碰在一起→碰头会。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": "日本人一天打好几个打ち合わせ，5-10分钟就结束，像呼吸一样自然。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "会議",
+          "diff": "更正式更大"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场"
       ]
     },
     "metadata": {
@@ -713,8 +933,10 @@
       "reviewed": true
     },
     "audio": {
-      "word": null,
-      "sentences": []
+      "word": "audio/n2/n2_00101_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00101_sent1.mp3"
+      ]
     }
   },
   {
@@ -786,236 +1008,7 @@
       "reviewed": true
     },
     "audio": {
-      "word": null,
-      "sentences": []
-    }
-  },
-  {
-    "id": "n2_00006",
-    "tier": "S",
-    "basic": {
-      "word": "手前",
-      "kana": "てまえ",
-      "jlpt_level": "N2",
-      "part_of_speech": [
-        "名词"
-      ],
-      "meanings_cn": [
-        {
-          "cn": "碍于面子",
-          "priority": 1
-        },
-        {
-          "cn": "面前",
-          "priority": 2
-        }
-      ],
-      "core_meaning": "碍于已经做了某事，不得不继续"
-    },
-    "nuance": {
-      "core_nuance": "最常见的用法是碍于面子。我知道不该这样，但碍于面子不得不做。还有手前味噌（自卖自夸）。做代名词时是骂人：你这家伙。",
-      "formality": 2,
-      "emotion": "文脈依存"
-    },
-    "examples": {
-      "sentences": [
-        {
-          "jp": "約束した手前、行かないわけにはいかない。",
-          "cn": "碍于已经约好了，不去不行。",
-          "scene": "不想去但不得不去",
-          "style": "spoken"
-        },
-        {
-          "jp": "手前味噌だけど、この料理は自信あるよ。",
-          "cn": "自卖自夸一下，这道菜我很有自信。",
-          "scene": "请人品尝自己做的菜",
-          "style": "spoken"
-        },
-        {
-          "jp": "手前、ちょっと言いにくいけど…。",
-          "cn": "碍于面子，有点不好意思说…",
-          "scene": "想说但不好意思",
-          "style": "spoken"
-        }
-      ]
-    },
-    "usage": {
-      "is_spoken": true,
-      "is_written": true,
-      "is_formal": false,
-      "is_casual": true,
-      "is_business": false,
-      "common_in_daily_life": true,
-      "common_in_news": false,
-      "collocations": [
-        {
-          "pattern": "手前味噌",
-          "meaning_cn": "自卖自夸",
-          "frequency": "中"
-        },
-        {
-          "pattern": "〜した手前",
-          "meaning_cn": "碍于已经做了…",
-          "frequency": "中"
-        }
-      ],
-      "conjugal_forms": null
-    },
-    "mistakes": {
-      "common_mistakes": [
-        {
-          "type": "意思",
-          "wrong": "手前就是面前。",
-          "correct": "手前最常用的意思是碍于面子。",
-          "explanation": "面前的意思很少用，最常见的用法是碍于面子。"
-        },
-        {
-          "type": "语感",
-          "wrong": "用手前称呼对方。",
-          "correct": "手前称呼对方是非常粗鲁的，相当于你这家伙。",
-          "explanation": "手前做代名词时是骂人用的。"
-        }
-      ],
-      "confused_with": []
-    },
-    "memory": {
-      "memory_hint": "手前=手的前面=面前。碍于面子——你面前有人看着你，你不得不做。",
-      "image_scene": "一个人在众人面前，虽然不想做但碍于面子不得不做",
-      "chinese_memory_trick": "中文的面前只是物理位置，日语手前还有碍于面子的意思。"
-    },
-    "culture": {
-      "japan_culture_note": "手前体现了日本人重面子的文化。",
-      "social_context": "手前味噌是日本特有的自谦式自夸",
-      "japanese_workplace_note": null
-    },
-    "relations": {
-      "synonyms": [],
-      "antonyms": []
-    },
-    "tags": {
-      "scene_tags": [
-        "日常",
-        "职场"
-      ]
-    },
-    "metadata": {
-      "created_at": "2026-05-25",
-      "reviewed": true
-    },
-    "audio": {
-      "word": "audio/n2/n2_00006_word.mp3",
-      "sentences": [
-        "audio/n2/n2_00006_sent1.mp3"
-      ]
-    }
-  },
-  {
-    "id": "n2_00007",
-    "tier": "A",
-    "basic": {
-      "word": "打ち合わせ",
-      "kana": "うちあわせ",
-      "jlpt_level": "N2",
-      "part_of_speech": [
-        "名词"
-      ],
-      "meanings_cn": [
-        {
-          "cn": "碰头会",
-          "priority": 1
-        }
-      ],
-      "core_meaning": "小范围的、非正式的信息对齐会"
-    },
-    "nuance": {
-      "core_nuance": "比会議轻量、比ミーティング更日式。核心是对齐信息而不是做决定。",
-      "formality": 3,
-      "emotion": "中性"
-    },
-    "examples": {
-      "sentences": [
-        {
-          "jp": "来週の打ち合わせ、水曜でいい？",
-          "cn": "下周的碰头会，周三行吗？",
-          "scene": "同事确认时间",
-          "style": "spoken"
-        },
-        {
-          "jp": "ちょっと打ち合わせしましょう、5分でいいから。",
-          "cn": "咱们碰一下吧，5分钟就行。",
-          "scene": "前辈对后辈",
-          "style": "spoken"
-        }
-      ]
-    },
-    "usage": {
-      "is_spoken": true,
-      "is_written": true,
-      "is_formal": false,
-      "is_casual": true,
-      "is_business": true,
-      "common_in_daily_life": false,
-      "common_in_news": false,
-      "collocations": [
-        {
-          "pattern": "打ち合わせをする",
-          "meaning_cn": "开碰头会",
-          "frequency": "高"
-        },
-        {
-          "pattern": "打ち合わせを入れる",
-          "meaning_cn": "安排碰头会",
-          "frequency": "高"
-        }
-      ],
-      "conjugal_forms": null
-    },
-    "mistakes": {
-      "common_mistakes": [
-        {
-          "type": "语体",
-          "wrong": "把打ち合わせ翻译成会议。",
-          "correct": "打ち合わせ比会議轻量，更接近碰头会。",
-          "explanation": "会議是正式的会议，打ち合わせ是非正式的小会。"
-        }
-      ],
-      "confused_with": [
-        {
-          "word": "会議",
-          "diff": "会議更正式更大，打ち合わせ更轻量更小范围"
-        }
-      ]
-    },
-    "memory": {
-      "memory_hint": "打つ=碰，合わせ=合。碰在一起→碰头会。",
-      "image_scene": null,
-      "chinese_memory_trick": null
-    },
-    "culture": {
-      "japan_culture_note": null,
-      "social_context": null,
-      "japanese_workplace_note": "日本人一天打好几个打ち合わせ，5-10分钟就结束，像呼吸一样自然。"
-    },
-    "relations": {
-      "synonyms": [
-        {
-          "word": "会議",
-          "diff": "更正式更大"
-        }
-      ],
-      "antonyms": []
-    },
-    "tags": {
-      "scene_tags": [
-        "职场"
-      ]
-    },
-    "metadata": {
-      "created_at": "2026-05-25",
-      "reviewed": true
-    },
-    "audio": {
-      "word": null,
+      "word": "audio/n2/n2_00102_word.mp3",
       "sentences": []
     }
   }

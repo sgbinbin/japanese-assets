@@ -1,0 +1,192 @@
+[
+  {
+    "id": "n2_00001",
+    "word": "根回し",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00002",
+    "word": "渋い",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00003",
+    "word": "モメる",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00004",
+    "word": "面倒くさい",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00005",
+    "word": "もったいない",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00006",
+    "word": "手前",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00007",
+    "word": "打ち合わせ",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00100",
+    "word": "程度",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00101",
+    "word": "表情",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00102",
+    "word": "主張",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00008",
+    "word": "空気を読む",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00009",
+    "word": "遠慮",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00010",
+    "word": "承知",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00011",
+    "word": "対応",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00012",
+    "word": "確認",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00013",
+    "word": "影響",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00103",
+    "word": "存在",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00104",
+    "word": "関係",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00105",
+    "word": "結果",
+    "tier": "B",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  }
+]

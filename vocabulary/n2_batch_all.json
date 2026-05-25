@@ -1,0 +1,1897 @@
+[
+  {
+    "id": "n2_00001",
+    "tier": "S",
+    "basic": {
+      "word": "根回し",
+      "kana": "ねまわし",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "提前打招呼",
+          "priority": 1
+        },
+        {
+          "cn": "私下铺垫",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "正式场合之前私下沟通达成共识"
+    },
+    "nuance": {
+      "core_nuance": "日本职场的核心生存技能。不是走后门，是正式场合前私下达成共识。日本人开会基本走形式，真正的决定在根回し阶段就做完了。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "会議の前に根回ししておいたから、大丈夫だよ。",
+          "cn": "开会之前我提前打过招呼了，没问题的。",
+          "scene": "同事之间",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼、いきなり反対意見言うけど、根回しが下手なんだよね。",
+          "cn": "他动不动就提反对意见，但其实私下沟通能力很差。",
+          "scene": "评价同事",
+          "style": "spoken"
+        },
+        {
+          "jp": "日本では根回しをしないと物事が進まないことが多い。",
+          "cn": "在日本不提前打招呼的话，事情往往推不动。",
+          "scene": "解释文化",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "根回しをする",
+          "meaning_cn": "做提前沟通",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "根回し就是走后门。",
+          "correct": "根回し是正式场合前的私下沟通，中性偏正面。",
+          "explanation": "中文走后门是贬义，但日语根回し是职场必备技能。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "事前調整",
+          "diff": "事前調整更书面，根回し更有日本味"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "移植大树——先绕着根松土，再移植。日本公司做决策也一样。",
+      "image_scene": "一棵大树，有人蹲在树根旁边松土，远处会议室门口站着一群人",
+      "chinese_memory_trick": "中文没有对应概念。不要翻译成走后门。"
+    },
+    "culture": {
+      "japan_culture_note": "根回し是日本「空気を読む」文化的具体体现。",
+      "social_context": "职场常用",
+      "japanese_workplace_note": "提案前必须根回し，否则会议上直接被否决。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "事前調整",
+          "diff": "更正式更书面"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ぶっつけ本番",
+          "diff": "毫无准备直接上"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "商务"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00001_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00001_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00002",
+    "tier": "S",
+    "basic": {
+      "word": "渋い",
+      "kana": "しぶい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "有品位的",
+          "priority": 1
+        },
+        {
+          "cn": "涩的",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "低调但有深度的美感"
+    },
+    "nuance": {
+      "core_nuance": "中文没有完全对应的词。形容人时不是帅，是成熟男人的韵味。用这个词的人本身就说明品味。",
+      "formality": 3,
+      "emotion": "正面欣赏"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この時計、渋いね。おじいちゃんの？",
+          "cn": "这块表好有品位啊。你爷爷的？",
+          "scene": "夸人品味",
+          "style": "spoken"
+        },
+        {
+          "jp": "最近は渋い音楽が好きになってきた。",
+          "cn": "最近开始喜欢那种老派音乐了。",
+          "scene": "聊音乐",
+          "style": "spoken"
+        },
+        {
+          "jp": "あの人、見た目は渋いけど性格は面白いよ。",
+          "cn": "那个人外表看着沉稳，但性格很好玩。",
+          "scene": "描述反差",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "渋いデザイン",
+          "meaning_cn": "有品位的设计",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "渋い就是涩的、不好吃的。",
+          "correct": "渋い形容人或设计时是褒义。",
+          "explanation": "中文的涩几乎都是贬义，但日语渋い形容审美时是高级夸奖。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "かっこいい",
+          "diff": "かっこいい是直接的帅，渋い是需要品味的帅"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "涩柿子——不好看但越品越有味道。",
+      "image_scene": "一个穿着深色西装的中年男人，不说话但气场很强",
+      "chinese_memory_trick": "中文的涩几乎都是贬义，但日语渋い是高级夸奖。"
+    },
+    "culture": {
+      "japan_culture_note": "渋い是日本审美「侘び寂び」的日常体现。",
+      "social_context": "夸人时用渋い，说明你认可对方的品味",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "粋",
+          "diff": "粋更偏江户风情"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "派手",
+          "diff": "张扬华丽"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "审美"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00002_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00002_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00003",
+    "tier": "A",
+    "basic": {
+      "word": "モメる",
+      "kana": "もめる",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "自动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "闹纠纷，扯皮",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "各方立场不同导致事情卡住了"
+    },
+    "nuance": {
+      "core_nuance": "比争论轻，比吵架重。核心是拖拖拉拉地来回拉扯，事情卡住了推不动。",
+      "formality": 2,
+      "emotion": "负面"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この件、部署間でモメてるらしいよ。",
+          "cn": "这件事好像部门之间在扯皮呢。",
+          "scene": "同事八卦",
+          "style": "spoken"
+        },
+        {
+          "jp": "モメないように、最初にルールを決めておこう。",
+          "cn": "为了不扯皮，先把规则定好吧。",
+          "scene": "项目讨论",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "モメる",
+          "meaning_cn": "闹纠纷",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": {
+        "masu": "もめます",
+        "te": "もめて",
+        "nai": "もめない",
+        "ta": "もめた"
+      }
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "モメる就是吵架。",
+          "correct": "モﾒる强调事情停滞不前，不是冲突激烈。",
+          "explanation": "两个人激烈争论但很快解决，不叫モﾒる。一群人拖着不解决，那才叫モﾒる。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "喧嘩する",
+          "diff": "喧嘩是激烈吵架，モﾒる是慢性扯皮"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "モﾒる发音像「摸」——你摸过来我摸过去，谁都不肯松手。",
+      "image_scene": "两个人各拉着绳子一头，谁都不松手",
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "すんなり",
+          "diff": "顺利推进"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "新闻"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": [
+        "audio/n2/n2_00003_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00004",
+    "tier": "A",
+    "basic": {
+      "word": "面倒くさい",
+      "kana": "めんどうくさい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "好麻烦啊",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "嫌麻烦、懒得动"
+    },
+    "nuance": {
+      "core_nuance": "日本年轻人的口头禅。口语里经常缩短为めんどい。",
+      "formality": 1,
+      "emotion": "消极"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "あ、書類の整理か…めんどいな。",
+          "cn": "啊，整理文件啊…好烦啊。",
+          "scene": "看到待办事项",
+          "style": "spoken"
+        },
+        {
+          "jp": "面倒くさいことは先にやっちゃおう。",
+          "cn": "麻烦的事先干完算了。",
+          "scene": "自我激励",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": false,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "面倒くさい仕事",
+          "meaning_cn": "麻烦的工作",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语体",
+          "wrong": "对上司说「この仕事は面倒くさいです」。",
+          "correct": "对上司要说「手間がかかります」。",
+          "explanation": "面倒くさい太随意，正式场合不行。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "複雑",
+          "diff": "複雑是客观复杂，面倒くさい是主观抱怨"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "面倒=麻烦，くさい=臭。麻烦到发臭了。",
+      "image_scene": "一个人瘫在椅子上，对着电脑叹气",
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": "朋友之间随便说，正式场合不能用",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "めんどい",
+          "diff": "口语缩略"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "簡単",
+          "diff": "简单轻松"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": [
+        "audio/n2/n2_00004_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00005",
+    "tier": "A",
+    "basic": {
+      "word": "もったいない",
+      "kana": "もったいない",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "太可惜了",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "浪费了事物本身的价值"
+    },
+    "nuance": {
+      "core_nuance": "日本人的核心价值观。不只是浪费钱，辜负别人的好意也叫もったいない。",
+      "formality": 2,
+      "emotion": "惋惜"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "こんなに残すの、もったいないよ。",
+          "cn": "剩这么多，太浪费了。",
+          "scene": "看到剩菜",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼女の気持ちを無にするのはもったいない。",
+          "cn": "辜负她的心意太可惜了。",
+          "scene": "劝朋友",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "もったいない！",
+          "meaning_cn": "太可惜了！",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "もったいない就是浪费钱。",
+          "correct": "浪费了事物本身的价值，不限于钱。",
+          "explanation": "浪费别人的好意也叫もったいない。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "惜しい",
+          "diff": "惜しい是差一点成功，もったいない是浪费价值"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "勿体=本体，無い=没有。连本体都没了——太可惜了。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": "日本人从小被教育もったいない。肯尼亚的诺贝尔奖得主还把它推广到了全世界。",
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": [
+        "audio/n2/n2_00005_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00006",
+    "tier": "S",
+    "basic": {
+      "word": "手前",
+      "kana": "てまえ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "碍于面子",
+          "priority": 1
+        },
+        {
+          "cn": "面前",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "碍于已经做了某事，不得不继续"
+    },
+    "nuance": {
+      "core_nuance": "最常见的用法是碍于面子。我知道不该这样，但碍于面子不得不做。还有手前味噌（自卖自夸）。",
+      "formality": 2,
+      "emotion": "文脈依存"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "約束した手前、行かないわけにはいかない。",
+          "cn": "碍于已经约好了，不去不行。",
+          "scene": "不想去但不得不去",
+          "style": "spoken"
+        },
+        {
+          "jp": "手前味噌だけど、この料理は自信あるよ。",
+          "cn": "自卖自夸一下，这道菜我很有自信。",
+          "scene": "请人品尝自己做的菜",
+          "style": "spoken"
+        },
+        {
+          "jp": "手前、ちょっと言いにくいけど…。",
+          "cn": "碍于面子，有点不好意思说…",
+          "scene": "想说但不好意思",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "手前味噌",
+          "meaning_cn": "自卖自夸",
+          "frequency": "中"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "手前就是面前。",
+          "correct": "手前最常用的意思是碍于面子。",
+          "explanation": "面前的意思很少用，最常见的用法是碍于面子。"
+        },
+        {
+          "type": "语感",
+          "wrong": "用手前称呼对方。",
+          "correct": "手前称呼对方是非常粗鲁的，相当于你这家伙。",
+          "explanation": "手前做代名词时是骂人用的。"
+        }
+      ],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": "手前=手的前面=面前。碍于面子——你面前有人看着你，你不得不做。",
+      "image_scene": "一个人在众人面前，虽然不想做但碍于面子不得不做",
+      "chinese_memory_trick": "中文的面前只是物理位置，日语手前还有碍于面子的意思。"
+    },
+    "culture": {
+      "japan_culture_note": "手前体现了日本人重面子的文化。",
+      "social_context": "手前味噌是日本特有的自谦式自夸",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00006_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00006_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00007",
+    "tier": "A",
+    "basic": {
+      "word": "打ち合わせ",
+      "kana": "うちあわせ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "碰头会",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "小范围的、非正式的信息对齐会"
+    },
+    "nuance": {
+      "core_nuance": "比会議轻量、比ミーティング更日式。核心是对齐信息而不是做决定。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "来週の打ち合わせ、水曜でいい？",
+          "cn": "下周的碰头会，周三行吗？",
+          "scene": "同事确认时间",
+          "style": "spoken"
+        },
+        {
+          "jp": "ちょっと打ち合わせしましょう、5分でいいから。",
+          "cn": "咱们碰一下吧，5分钟就行。",
+          "scene": "前辈对后辈",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "打ち合わせをする",
+          "meaning_cn": "开碰头会",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语体",
+          "wrong": "把打ち合わせ翻译成会议。",
+          "correct": "打ち合わせ比会議轻量，更接近碰头会。",
+          "explanation": "会議是正式的会议，打ち合わせ是非正式的小会。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "会議",
+          "diff": "会議更正式更大，打ち合わせ更轻量更小范围"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "打つ=碰，合わせ=合。碰在一起→碰头会。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": "日本人一天打好几个打ち合わせ，5-10分钟就结束，像呼吸一样自然。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "会議",
+          "diff": "更正式更大"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00100",
+    "tier": "B",
+    "basic": {
+      "word": "程度",
+      "kana": "ていど",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "程度",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文程度一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "どの程度まで許されるのか。",
+          "cn": "被允许到什么程度？",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00100_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00100_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00101",
+    "tier": "B",
+    "basic": {
+      "word": "表情",
+      "kana": "ひょうじょう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "表情",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文表情一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "彼女の表情が明るくなった。",
+          "cn": "她的表情变明朗了。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00101_word.mp3",
+      "sentences": [
+        "audio/n2/n2_00101_sent1.mp3"
+      ]
+    }
+  },
+  {
+    "id": "n2_00102",
+    "tier": "B",
+    "basic": {
+      "word": "主張",
+      "kana": "しゅちょう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "主张",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文主张一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "自分の主張をはっきり伝える。",
+          "cn": "清楚传达自己的主张。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": false,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": "audio/n2/n2_00102_word.mp3",
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00008",
+    "tier": "S",
+    "basic": {
+      "word": "空気を読む",
+      "kana": "くうきをよむ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "惯用句"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "察言观色",
+          "priority": 1
+        },
+        {
+          "cn": "读空气",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "感知现场氛围，做出恰当反应"
+    },
+    "nuance": {
+      "core_nuance": "日本社会的核心生存技能。不读空气的人会被认为「KY」（空気が読めない），是严重的社交死刑。",
+      "formality": 2,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "あの人、 totally 空気読めないよね。",
+          "cn": "那个人完全不会读空气啊。",
+          "scene": "吐槽某人",
+          "style": "spoken"
+        },
+        {
+          "jp": "空気を読むのが下手だから、いつも場が白けちゃう。",
+          "cn": "我不会察言观色，所以总是冷场。",
+          "scene": "自嘲",
+          "style": "spoken"
+        },
+        {
+          "jp": "日本のビジネスでは空気を読む力が重要だ。",
+          "cn": "在日本职场，察言观色的能力很重要。",
+          "scene": "解释文化",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "空気を読む",
+          "meaning_cn": "察言观色",
+          "frequency": "高"
+        },
+        {
+          "pattern": "空気が読めない",
+          "meaning_cn": "不会读空气",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "文化",
+          "wrong": "空気を読む就是看别人脸色。",
+          "correct": "空気を読む是主动感知氛围，不是被动讨好。",
+          "explanation": "看别人脸色是被动的，空気を読む是主动的社交能力。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "忖度",
+          "diff": "忖度是揣测上意，偏负面。空気を読む是中性的社交能力。"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "空气=氛围，读=感知。感知现场的氛围。",
+      "image_scene": "一个人走进房间，深吸一口气，然后做出恰当的反应",
+      "chinese_memory_trick": "中文说察言观色，日语说读空气。都是感知氛围的意思。"
+    },
+    "culture": {
+      "japan_culture_note": "日本是高语境文化，很多意思不直接说出来，需要自己感知。",
+      "social_context": "KY（空気が読めない）是日本网络流行语，形容不会察言观色的人。",
+      "japanese_workplace_note": "不会读空气的新人会被前辈讨厌。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "察する",
+          "diff": "察する更强调推测"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "KY",
+          "diff": "空気が読めない的缩写"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "社交",
+        "文化"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00009",
+    "tier": "S",
+    "basic": {
+      "word": "遠慮",
+      "kana": "えんりょ",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "客气",
+          "priority": 1
+        },
+        {
+          "cn": "谢绝",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "克制自己不给别人添麻烦"
+    },
+    "nuance": {
+      "core_nuance": "日本人社交的润滑剂。远慮する可以是客气（不打扰别人），也可以是谢绝（委婉拒绝）。中国人容易误解成疏远。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "遠慮しないで、もっと食べて。",
+          "cn": "别客气，多吃点。",
+          "scene": "招待客人",
+          "style": "spoken"
+        },
+        {
+          "jp": "お酒は遠慮しておきます。",
+          "cn": "酒我就谢绝了。",
+          "scene": "婉拒劝酒",
+          "style": "spoken"
+        },
+        {
+          "jp": "ここでの喫煙はご遠慮ください。",
+          "cn": "这里请勿吸烟。",
+          "scene": "公共场所",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "ご遠慮ください",
+          "meaning_cn": "请勿…",
+          "frequency": "高"
+        },
+        {
+          "pattern": "遠慮する",
+          "meaning_cn": "客气/谢绝",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "遠慮就是疏远。",
+          "correct": "遠慮是克制自己不给别人添麻烦，是礼貌的表现。",
+          "explanation": "中文的客气有时暗示疏远，但日语遠慮是正面的社交礼仪。"
+        },
+        {
+          "type": "用法",
+          "wrong": "用遠慮来表达不喜欢。",
+          "correct": "遠慮する是委婉拒绝，不是表达不喜欢。",
+          "explanation": "日本人说「遠慮しておきます」是在礼貌地拒绝，不是说不喜欢。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "断る",
+          "diff": "断る是直接拒绝，遠慮是委婉拒绝"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "远=远，虑=考虑。考虑得远→克制自己→客气。",
+      "image_scene": "一个人面对美食，虽然很想吃但因为礼貌而克制",
+      "chinese_memory_trick": "中文的客气有时暗示疏远，日语遠慮是正面的社交礼仪。"
+    },
+    "culture": {
+      "japan_culture_note": "日本人从小被教育要遠慮，不要给别人添麻烦。",
+      "social_context": "远慮是日本社交的基本功。",
+      "japanese_workplace_note": "新人入职第一天就要学会遠慮。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "控える",
+          "diff": "控える更强调控制"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "遠慮なく",
+          "diff": "不客气地"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "社交",
+        "职场",
+        "文化"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00010",
+    "tier": "A",
+    "basic": {
+      "word": "承知",
+      "kana": "しょうち",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "知道，了解",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "知晓并接受某事"
+    },
+    "nuance": {
+      "core_nuance": "比知る更正式，比了解更有承诺感。职场常用。",
+      "formality": 4,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "承知しました。すぐ対応します。",
+          "cn": "了解了。马上处理。",
+          "scene": "职场",
+          "style": "spoken"
+        },
+        {
+          "jp": "その件は承知しております。",
+          "cn": "那件事我已经了解了。",
+          "scene": "对客户",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": false,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "承知しました",
+          "meaning_cn": "了解了",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语体",
+          "wrong": "对朋友说「承知しました」。",
+          "correct": "承知是正式用语，对朋友要说「わかった」。",
+          "explanation": "承知太正式，日常对话用わかった。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "了解",
+          "diff": "了解更口语化，承知更正式"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "承=接受，知=知道。接受并知道→了解。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": "对上司和客户用承知しました，不用了解しました。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "了解",
+          "diff": "了解更口语化"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00011",
+    "tier": "A",
+    "basic": {
+      "word": "対応",
+      "kana": "たいおう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "应对",
+          "priority": 1
+        },
+        {
+          "cn": "对应",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "处理问题或适应情况"
+    },
+    "nuance": {
+      "core_nuance": "职场高频词。対応する比处理更正式，比应对更广泛。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "クレームに対応する。",
+          "cn": "应对投诉。",
+          "scene": "职场",
+          "style": "spoken"
+        },
+        {
+          "jp": "新しいルールに対応できていない。",
+          "cn": "还没能适应新规则。",
+          "scene": "职场",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": false,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "対応する",
+          "meaning_cn": "应对",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "搭配",
+          "wrong": "対応を取る。",
+          "correct": "対応する。",
+          "explanation": "対応する是固定搭配，不用取る。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "処理",
+          "diff": "処理更强调处理，対応更强调适应"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "对→对，应→应对。对应→应对。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "処理",
+          "diff": "処理更强调处理"
+        }
+      ],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00012",
+    "tier": "A",
+    "basic": {
+      "word": "確認",
+      "kana": "かくにん",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "确认",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "确认某事是否正确"
+    },
+    "nuance": {
+      "core_nuance": "日常和职场都常用，比チェック更正式。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "メールを確認してください。",
+          "cn": "请确认邮件。",
+          "scene": "职场",
+          "style": "spoken"
+        },
+        {
+          "jp": "間違いがないか確認しておいて。",
+          "cn": "确认一下有没有错。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "確認する",
+          "meaning_cn": "确认",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00013",
+    "tier": "A",
+    "basic": {
+      "word": "影響",
+      "kana": "えいきょう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "影响",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "某事物对其他事物产生的作用"
+    },
+    "nuance": {
+      "core_nuance": "和中文意思相同，但搭配不同。日语说「影響を与える」不说「影響を出す」。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "環境に影響を与える。",
+          "cn": "给环境带来影响。",
+          "scene": "新闻",
+          "style": "written"
+        },
+        {
+          "jp": "子供に悪い影響を与えないように注意している。",
+          "cn": "注意不给孩子带来坏影响。",
+          "scene": "家庭",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": false,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "影響を与える",
+          "meaning_cn": "带来影响",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "搭配",
+          "wrong": "影響を出す。",
+          "correct": "影響を与える。",
+          "explanation": "日语固定搭配是「影響を与える」。"
+        }
+      ],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "新闻",
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00103",
+    "tier": "B",
+    "basic": {
+      "word": "存在",
+      "kana": "そんざい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "存在",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文存在一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この問題は存在しない。",
+          "cn": "这个问题不存在。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00104",
+    "tier": "B",
+    "basic": {
+      "word": "関係",
+      "kana": "かんけい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "关系",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文关系一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "彼とは良い関係だ。",
+          "cn": "和他关系好。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  },
+  {
+    "id": "n2_00105",
+    "tier": "B",
+    "basic": {
+      "word": "結果",
+      "kana": "けっか",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "结果",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文结果一样"
+    },
+    "nuance": null,
+    "examples": {
+      "sentences": [
+        {
+          "jp": "試験の結果が発表された。",
+          "cn": "考试结果发表了。",
+          "scene": "学校",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "学校"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": true
+    },
+    "audio": {
+      "word": null,
+      "sentences": []
+    }
+  }
+]
