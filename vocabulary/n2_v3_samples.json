@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n2_00001",
+    "tier": "S",
+    "basic": {
+      "word": "根回し",
+      "kana": "ねまわし",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "提前打招呼",
+          "priority": 1
+        },
+        {
+          "cn": "私下铺垫",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "正式场合之前私下沟通达成共识"
+    },
+    "nuance": {
+      "core_nuance": "日本职场的核心生存技能。不是贬义的走后门，而是正式场合前私下达成共识。日本人开会基本走形式，真正的决定在根回し阶段就做完了。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "会議の前に根回ししておいたから、大丈夫だよ。",
+          "cn": "开会之前我提前打过招呼了，没问题的。",
+          "scene": "同事之间",
+          "style": "spoken"
+        },
+        {
+          "jp": "彼、いきなり反対意見言うけど、根回しが下手なんだよね。",
+          "cn": "他动不动就提反对意见，但其实私下沟通能力很差。",
+          "scene": "评价同事",
+          "style": "spoken"
+        },
+        {
+          "jp": "日本では根回しをしないと物事が進まないことが多い。",
+          "cn": "在日本不提前打招呼的话，事情往往推不动。",
+          "scene": "解释文化",
+          "style": "written"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "根回しをする",
+          "meaning_cn": "做提前沟通",
+          "frequency": "高"
+        },
+        {
+          "pattern": "根回しが必要",
+          "meaning_cn": "需要提前铺垫",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "语感",
+          "wrong": "根回し就是走后门。",
+          "correct": "根回し是正式场合前的私下沟通，中性偏正面。",
+          "explanation": "中文走后门是贬义，但日语根回し是职场必备技能，不做反而会被认为不会读空气。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "事前調整",
+          "diff": "事前調整更书面更正式，根回し更有日本文化味更口语"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "移植大树——先绕着根松土，再移植。日本公司做决策也一样。",
+      "image_scene": "一棵大树，有人蹲在树根旁边松土，远处会议室门口站着一群人",
+      "chinese_memory_trick": "中文没有对应概念。不要翻译成走后门，那是负面的。"
+    },
+    "culture": {
+      "japan_culture_note": "根回し是日本「空気を読む」文化的具体体现。",
+      "social_context": "职场常用，也可评价某人的沟通能力",
+      "japanese_workplace_note": "提案前必须根回し，否则会议上直接被否决。"
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "事前調整",
+          "diff": "更正式更书面"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ぶっつけ本番",
+          "diff": "毫无准备直接上"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "商务"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00002",
+    "tier": "S",
+    "basic": {
+      "word": "渋い",
+      "kana": "しぶい",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "形容词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "有品位的，老派的好看",
+          "priority": 1
+        },
+        {
+          "cn": "涩的（味道）",
+          "priority": 2
+        }
+      ],
+      "core_meaning": "低调但有深度的美感，不张扬但越看越有味道"
+    },
+    "nuance": {
+      "core_nuance": "中文没有完全对应的词。形容人时不是帅，是成熟男人的韵味——穿着简单但有质感。用这个词的人本身就说明品味。",
+      "formality": 3,
+      "emotion": "正面欣赏"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "この時計、渋いね。おじいちゃんの？",
+          "cn": "这块表好有品位啊。你爷爷的？",
+          "scene": "夸人品味",
+          "style": "spoken"
+        },
+        {
+          "jp": "最近は渋い音楽が好きになってきた。",
+          "cn": "最近开始喜欢那种有味道的老派音乐了。",
+          "scene": "聊音乐",
+          "style": "spoken"
+        },
+        {
+          "jp": "あの人、見た目は渋いけど性格は面白いよ。",
+          "cn": "那个人外表看着沉稳，但性格很好玩。",
+          "scene": "描述反差",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": false,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [
+        {
+          "pattern": "渋いデザイン",
+          "meaning_cn": "有品位的设计",
+          "frequency": "高"
+        },
+        {
+          "pattern": "渋い味",
+          "meaning_cn": "涩味（字面）",
+          "frequency": "中"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "意思",
+          "wrong": "渋い就是涩的、不好吃的。",
+          "correct": "渋い形容人或设计时是褒义，意思是低调有品位。",
+          "explanation": "中文的涩几乎都是贬义，但日语渋い形容审美时是高级夸奖。"
+        }
+      ],
+      "confused_with": [
+        {
+          "word": "かっこいい",
+          "diff": "かっこいい是直接的帅，渋い是需要品味的帅"
+        }
+      ]
+    },
+    "memory": {
+      "memory_hint": "涩柿子——不好看但越品越有味道。渋い的东西第一眼不惊艳，但越看越喜欢。",
+      "image_scene": "一个穿着深色西装的中年男人，不说话但气场很强",
+      "chinese_memory_trick": "中文的涩几乎都是贬义，但日语渋い形容审美时是高级夸奖。"
+    },
+    "culture": {
+      "japan_culture_note": "渋い是日本审美「侘び寂び」的日常体现。",
+      "social_context": "夸人时用渋い，说明你认可对方的品味而不是外表",
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [
+        {
+          "word": "粋",
+          "diff": "粋更偏江户风情，渋い更现代"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "派手",
+          "diff": "张扬华丽"
+        }
+      ]
+    },
+    "tags": {
+      "scene_tags": [
+        "日常",
+        "审美"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00100",
+    "tier": "A",
+    "basic": {
+      "word": "確認",
+      "kana": "かくにん",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "确认",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "确认某事是否正确"
+    },
+    "nuance": {
+      "core_nuance": "日常和职场都常用，比チェック更正式。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "メールを確認してください。",
+          "cn": "请确认邮件。",
+          "scene": "职场",
+          "style": "spoken"
+        },
+        {
+          "jp": "間違いがないか確認しておいて。",
+          "cn": "确认一下有没有错。",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": true,
+      "common_in_daily_life": true,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "確認する",
+          "meaning_cn": "确认",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": "确→确定，认→认。和中文一样。",
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "职场",
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00101",
+    "tier": "A",
+    "basic": {
+      "word": "影響",
+      "kana": "えいきょう",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词",
+        "サ变动词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "影响",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "某事物对其他事物产生的作用"
+    },
+    "nuance": {
+      "core_nuance": "和中文意思相同，但搭配不同。日语说「影響を与える」不说「影響を出す」。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "環境に影響を与える。",
+          "cn": "给环境带来影响。",
+          "scene": "新闻",
+          "style": "written"
+        },
+        {
+          "jp": "子供に悪い影響を与えないように注意している。",
+          "cn": "注意不给孩子带来坏影响。",
+          "scene": "家庭",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": false,
+      "is_business": true,
+      "common_in_daily_life": false,
+      "common_in_news": true,
+      "collocations": [
+        {
+          "pattern": "影響を与える",
+          "meaning_cn": "带来影响",
+          "frequency": "高"
+        },
+        {
+          "pattern": "影響を受ける",
+          "meaning_cn": "受到影响",
+          "frequency": "高"
+        }
+      ],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [
+        {
+          "type": "搭配",
+          "wrong": "影響を出す",
+          "correct": "影響を与える",
+          "explanation": "日语固定搭配是「影響を与える」，不是「影響を出す」。"
+        }
+      ],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": "影→影子，响→响声。影子和响声都会影响周围。",
+      "image_scene": null,
+      "chinese_memory_trick": "意思和中文一样，但搭配不同。记住「影響を与える」。"
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "新闻",
+        "职场"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "n2_00500",
+    "tier": "B",
+    "basic": {
+      "word": "程度",
+      "kana": "ていど",
+      "jlpt_level": "N2",
+      "part_of_speech": [
+        "名词"
+      ],
+      "meanings_cn": [
+        {
+          "cn": "程度",
+          "priority": 1
+        }
+      ],
+      "core_meaning": "和中文程度一样"
+    },
+    "nuance": {
+      "core_nuance": "和中文完全相同，可以直接用中文理解。",
+      "formality": 3,
+      "emotion": "中性"
+    },
+    "examples": {
+      "sentences": [
+        {
+          "jp": "どの程度まで許されるのか。",
+          "cn": "被允许到什么程度？",
+          "scene": "日常",
+          "style": "spoken"
+        }
+      ]
+    },
+    "usage": {
+      "is_spoken": true,
+      "is_written": true,
+      "is_formal": true,
+      "is_casual": true,
+      "is_business": false,
+      "common_in_daily_life": true,
+      "common_in_news": false,
+      "collocations": [],
+      "conjugal_forms": null
+    },
+    "mistakes": {
+      "common_mistakes": [],
+      "confused_with": []
+    },
+    "memory": {
+      "memory_hint": null,
+      "image_scene": null,
+      "chinese_memory_trick": null
+    },
+    "culture": {
+      "japan_culture_note": null,
+      "social_context": null,
+      "japanese_workplace_note": null
+    },
+    "relations": {
+      "synonyms": [],
+      "antonyms": []
+    },
+    "tags": {
+      "scene_tags": [
+        "日常"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-05-25",
+      "reviewed": false
+    }
+  }
+]
