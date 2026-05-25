@@ -1,0 +1,116 @@
+[
+  {
+    "id": "n2_00001",
+    "word": "根回し",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00002",
+    "word": "渋い",
+    "tier": "S",
+    "score": 7,
+    "tier_review": "合理",
+    "problems": [
+      "S级词例句不足3条"
+    ],
+    "fixes": [],
+    "final_verdict": "needs_fix"
+  },
+  {
+    "id": "n2_00003",
+    "word": "モメる",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00004",
+    "word": "面倒くさい",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00005",
+    "word": "もったいない",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00100",
+    "word": "程度",
+    "tier": "B",
+    "score": 7,
+    "tier_review": "合理",
+    "problems": [
+      "B级词 nuance 写了废话「和中文完全相同」"
+    ],
+    "fixes": [
+      "nuance 改为 null"
+    ],
+    "final_verdict": "needs_fix"
+  },
+  {
+    "id": "n2_00101",
+    "word": "表情",
+    "tier": "B",
+    "score": 7,
+    "tier_review": "合理",
+    "problems": [
+      "B级词 nuance 写了废话「和中文完全相同」"
+    ],
+    "fixes": [
+      "nuance 改为 null"
+    ],
+    "final_verdict": "needs_fix"
+  },
+  {
+    "id": "n2_00102",
+    "word": "主張",
+    "tier": "B",
+    "score": 7,
+    "tier_review": "合理",
+    "problems": [
+      "B级词 nuance 写了废话「和中文完全相同」"
+    ],
+    "fixes": [
+      "nuance 改为 null"
+    ],
+    "final_verdict": "needs_fix"
+  },
+  {
+    "id": "n2_00006",
+    "word": "手前",
+    "tier": "S",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  },
+  {
+    "id": "n2_00007",
+    "word": "打ち合わせ",
+    "tier": "A",
+    "score": 9,
+    "tier_review": "合理",
+    "problems": [],
+    "fixes": [],
+    "final_verdict": "pass"
+  }
+]
